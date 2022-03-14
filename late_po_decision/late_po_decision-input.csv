@@ -1,0 +1,922 @@
+activity;time;production_order;material;required_material;purchase_requisition;purchase_order;amount_material
+create production order;2021-11-10 22:14:20;{990001};{000000000050066346};{DPC1015,DPC1018};{};{};{82}
+create purchase requisition;2021-11-11 12:01:58;{};{};{DPC1015};{300000};{};{82}
+create purchase requisition;2021-11-11 19:11:49;{};{};{DPC1018};{300001};{};{82}
+create production order;2021-11-11 21:43:01;{990002};{ACT-DCD-11};{ACT-BCD};{};{};{262}
+release purchase requisition (1);2021-11-12 09:17:33;{};{};{};{300001};{};{}
+release purchase requisition (1);2021-11-12 09:24:02;{};{};{};{300000};{};{}
+release purchase requisition (2);2021-11-12 14:30:38;{};{};{};{300001};{};{}
+create purchase requisition;2021-11-12 16:20:25;{};{};{ACT-BCD};{300002};{};{262}
+create production order;2021-11-12 21:40:22;{990003};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{149}
+convert to purchase order;2021-11-12 22:09:28;{};{};{DPC1018};{300001};{70000};{82}
+create production order;2021-11-15 17:56:55;{990004};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{77}
+release purchase requisition (2);2021-11-16 10:09:50;{};{};{};{300000};{};{}
+release purchase requisition (1);2021-11-16 11:57:22;{};{};{};{300002};{};{}
+create purchase requisition;2021-11-16 14:01:11;{};{};{AZ2-742};{300003};{};{77}
+release purchase requisition (2);2021-11-16 14:15:34;{};{};{};{300002};{};{}
+release purchase requisition (1);2021-11-16 16:54:20;{};{};{};{300003};{};{}
+convert to purchase order;2021-11-16 17:43:16;{};{};{DPC1015};{300000};{70001};{82}
+convert to purchase order;2021-11-16 18:34:06;{};{};{ACT-BCD};{300002};{70002};{262}
+create purchase requisition;2021-11-17 10:29:57;{};{};{HT-MEC0717};{300004};{};{154}
+create purchase requisition;2021-11-17 10:41:47;{};{};{HT-S2011600-7};{300005};{};{149}
+release purchase order;2021-11-17 13:35:27;{};{};{};{};{70002};{}
+release purchase requisition (2);2021-11-17 15:54:48;{};{};{};{300003};{};{}
+release purchase requisition (1);2021-11-17 17:03:41;{};{};{};{300004};{};{}
+goods receipt for purchase order;2021-11-17 17:11:19;{};{};{ACT-BCD};{};{70002};{262}
+convert to purchase order;2021-11-17 17:42:31;{};{};{AZ2-742};{300003};{70003};{77}
+release purchase requisition (1);2021-11-18 12:31:12;{};{};{};{300005};{};{}
+release purchase requisition (2);2021-11-18 13:04:08;{};{};{};{300004};{};{}
+goods issue for production order;2021-11-18 15:28:19;{990002};{};{ACT-BCD};{};{};{262}
+confirm production order;2021-11-18 15:28:19;{990002};{ACT-DCD-11};{};{};{};{262}
+convert to purchase order;2021-11-19 10:06:41;{};{};{HT-MEC0717};{300004};{70004};{154}
+create purchase requisition;2021-11-19 12:39:49;{};{};{HT-MEC9417};{300006};{};{149}
+release purchase requisition (2);2021-11-19 12:57:09;{};{};{};{300005};{};{}
+create purchase requisition;2021-11-19 14:26:46;{};{};{AM2-540};{300007};{};{149}
+reject purchase order;2021-11-19 15:24:21;{};{};{};{};{70001};{}
+convert to purchase order;2021-11-19 15:29:00;{};{};{HT-S2011600-7};{300005};{70005};{149}
+release purchase requisition (1);2021-11-22 11:36:46;{};{};{};{300006};{};{}
+release purchase requisition (1);2021-11-22 11:53:18;{};{};{};{300007};{};{}
+release purchase requisition (2);2021-11-22 13:46:10;{};{};{};{300006};{};{}
+convert to purchase order;2021-11-22 17:40:33;{};{};{HT-MEC9417};{300006};{70006};{149}
+create purchase requisition;2021-11-22 18:09:26;{};{};{DPC1015};{300008};{};{82}
+release purchase requisition (2);2021-11-23 11:55:08;{};{};{};{300007};{};{}
+release purchase requisition (1);2021-11-23 15:24:14;{};{};{};{300008};{};{}
+convert to purchase order;2021-11-23 17:17:12;{};{};{AM2-540};{300007};{70007};{149}
+release purchase requisition (2);2021-11-23 18:31:42;{};{};{};{300008};{};{}
+convert to purchase order;2021-11-24 08:34:23;{};{};{DPC1015};{300008};{70008};{82}
+release purchase order;2021-11-24 12:48:37;{};{};{};{};{70008};{}
+goods receipt for purchase order;2021-11-24 21:23:54;{};{};{DPC1015};{};{70008};{82}
+goods issue for production order;2021-11-26 11:52:16;{990001};{};{DPC1015};{};{};{82}
+release purchase order;2021-11-26 14:53:08;{};{};{};{};{70005};{}
+release purchase order;2021-11-29 16:00:55;{};{};{};{};{70004};{}
+goods receipt for purchase order;2021-11-30 08:28:16;{};{};{HT-MEC0717};{};{70004};{154}
+goods issue for production order;2021-11-30 11:06:02;{990004};{};{HT-MEC0717};{};{};{154}
+release purchase order;2021-12-01 16:56:59;{};{};{};{};{70007};{}
+goods receipt for purchase order;2021-12-01 17:03:19;{};{};{HT-S2011600-7};{};{70005};{149}
+release purchase order;2021-12-01 17:15:35;{};{};{};{};{70000};{}
+goods receipt for purchase order;2021-12-02 09:27:59;{};{};{DPC1018};{};{70000};{82}
+reject purchase order;2021-12-06 15:28:35;{};{};{};{};{70003};{}
+create purchase requisition;2021-12-07 10:02:21;{};{};{AZ2-742};{300009};{};{77}
+release purchase requisition (1);2021-12-07 10:12:29;{};{};{};{300009};{};{}
+goods issue for production order;2021-12-07 12:12:11;{990001};{};{DPC1018};{};{};{82}
+confirm production order;2021-12-07 12:12:11;{990001};{000000000050066346};{};{};{};{82}
+release purchase requisition (2);2021-12-08 11:05:53;{};{};{};{300009};{};{}
+release purchase order;2021-12-08 16:15:35;{};{};{};{};{70006};{}
+create production order;2021-12-09 16:49:13;{990020};{ACT-DCD-11};{ACT-BCD};{};{};{333}
+create production order;2021-12-10 08:27:17;{990017};{000000000050066346};{DPC1015,DPC1018};{};{};{223}
+convert to purchase order;2021-12-10 10:49:56;{};{};{AZ2-742};{300009};{70009};{77}
+goods receipt for purchase order;2021-12-10 11:56:40;{};{};{AM2-540};{};{70007};{149}
+create purchase requisition;2021-12-10 12:13:15;{};{};{ACT-BCD};{300010};{};{333}
+release purchase requisition (1);2021-12-10 17:44:35;{};{};{};{300010};{};{}
+goods receipt for purchase order;2021-12-13 09:14:04;{};{};{HT-MEC9417};{};{70006};{149}
+create purchase requisition;2021-12-13 17:27:27;{};{};{DPC1015};{300011};{};{223}
+create purchase requisition;2021-12-14 09:39:52;{};{};{DPC1018};{300012};{};{223}
+release purchase requisition (1);2021-12-14 09:50:38;{};{};{};{300012};{};{}
+release purchase requisition (2);2021-12-14 15:35:30;{};{};{};{300010};{};{}
+release purchase requisition (2);2021-12-15 17:42:42;{};{};{};{300012};{};{}
+convert to purchase order;2021-12-15 17:48:25;{};{};{ACT-BCD};{300010};{70010};{333}
+convert to purchase order;2021-12-15 17:55:49;{};{};{DPC1018};{300012};{70011};{223}
+release purchase requisition (1);2021-12-16 19:38:21;{};{};{};{300011};{};{}
+release purchase order;2021-12-17 09:55:31;{};{};{};{};{70009};{}
+release purchase requisition (2);2021-12-17 16:22:52;{};{};{};{300011};{};{}
+convert to purchase order;2021-12-17 17:41:54;{};{};{DPC1015};{300011};{70012};{223}
+goods receipt for purchase order;2021-12-21 14:03:53;{};{};{AZ2-742};{};{70009};{77}
+reject purchase order;2021-12-21 14:58:11;{};{};{};{};{70010};{}
+create purchase requisition;2021-12-21 16:42:18;{};{};{ACT-BCD};{300013};{};{333}
+release purchase requisition (1);2021-12-22 10:12:24;{};{};{};{300013};{};{}
+reject purchase order;2021-12-23 10:56:26;{};{};{};{};{70011};{}
+create purchase requisition;2021-12-23 12:41:08;{};{};{DPC1018};{300014};{};{223}
+release purchase requisition (2);2021-12-23 16:59:02;{};{};{};{300013};{};{}
+convert to purchase order;2021-12-24 10:41:07;{};{};{ACT-BCD};{300013};{70013};{333}
+release purchase requisition (1);2021-12-24 13:52:45;{};{};{};{300014};{};{}
+release purchase requisition (2);2021-12-24 16:01:18;{};{};{};{300014};{};{}
+convert to purchase order;2021-12-24 16:06:52;{};{};{DPC1018};{300014};{70014};{223}
+goods issue for production order;2021-12-24 16:18:48;{990003};{};{HT-MEC9417};{};{};{149}
+goods issue for production order;2021-12-28 11:55:19;{990003};{};{AM2-540};{};{};{149}
+goods issue for production order;2021-12-28 14:39:49;{990004};{};{AZ2-742};{};{};{77}
+confirm production order;2021-12-28 14:39:49;{990004};{IBP-120};{};{};{};{77}
+goods issue for production order;2021-12-28 17:47:18;{990003};{};{HT-S2011600-7};{};{};{149}
+confirm production order;2021-12-28 17:47:18;{990003};{CLIP-ON_MIC};{};{};{};{149}
+create production order;2021-12-30 09:57:06;{990032};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{501}
+release purchase order;2021-12-30 16:12:12;{};{};{};{};{70014};{}
+goods receipt for purchase order;2021-12-31 14:29:54;{};{};{DPC1018};{};{70014};{223}
+create purchase requisition;2022-01-03 11:44:08;{};{};{HT-S2011600-7};{300015};{};{501}
+release purchase requisition (1);2022-01-03 14:54:25;{};{};{};{300015};{};{}
+release purchase requisition (2);2022-01-03 16:01:22;{};{};{};{300015};{};{}
+release purchase order;2022-01-04 09:26:05;{};{};{};{};{70013};{}
+create production order;2022-01-04 10:12:25;{990038};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{398}
+convert to purchase order;2022-01-04 13:14:45;{};{};{HT-S2011600-7};{300015};{70015};{501}
+create purchase requisition;2022-01-04 13:58:45;{};{};{HT-MEC9417};{300016};{};{501}
+release purchase requisition (1);2022-01-04 18:53:02;{};{};{};{300016};{};{}
+create purchase requisition;2022-01-05 09:07:06;{};{};{AZ2-742};{300017};{};{398}
+create purchase requisition;2022-01-05 11:03:02;{};{};{HT-MEC0717};{300018};{};{796}
+release purchase requisition (1);2022-01-05 11:58:04;{};{};{};{300018};{};{}
+release purchase order;2022-01-06 09:35:57;{};{};{};{};{70012};{}
+release purchase requisition (2);2022-01-06 11:59:25;{};{};{};{300016};{};{}
+goods receipt for purchase order;2022-01-06 12:16:20;{};{};{DPC1015};{};{70012};{223}
+goods receipt for purchase order;2022-01-06 13:57:37;{};{};{ACT-BCD};{};{70013};{333}
+create purchase requisition;2022-01-06 14:21:17;{};{};{AM2-540};{300019};{};{501}
+release purchase requisition (1);2022-01-06 16:22:39;{};{};{};{300017};{};{}
+release purchase requisition (2);2022-01-06 16:52:40;{};{};{};{300018};{};{}
+convert to purchase order;2022-01-06 17:55:31;{};{};{HT-MEC9417};{300016};{70016};{501}
+release purchase requisition (1);2022-01-07 11:30:30;{};{};{};{300019};{};{}
+goods issue for production order;2022-01-07 15:47:27;{990017};{};{DPC1018};{};{};{223}
+goods issue for production order;2022-01-07 16:03:22;{990020};{};{ACT-BCD};{};{};{333}
+confirm production order;2022-01-07 16:03:22;{990020};{ACT-DCD-11};{};{};{};{333}
+release purchase requisition (2);2022-01-07 21:10:40;{};{};{};{300019};{};{}
+convert to purchase order;2022-01-10 10:26:00;{};{};{AM2-540};{300019};{70017};{501}
+release purchase requisition (2);2022-01-10 15:49:35;{};{};{};{300017};{};{}
+goods issue for production order;2022-01-10 16:03:11;{990017};{};{DPC1015};{};{};{223}
+confirm production order;2022-01-10 16:03:11;{990017};{000000000050066346};{};{};{};{223}
+create production order;2022-01-11 12:45:00;{990009};{ACT-DCD-11};{ACT-BCD};{};{};{206}
+convert to purchase order;2022-01-11 14:55:38;{};{};{AZ2-742};{300017};{70018};{398}
+convert to purchase order;2022-01-11 16:10:15;{};{};{HT-MEC0717};{300018};{70019};{796}
+create purchase requisition;2022-01-11 16:47:48;{};{};{ACT-BCD};{300020};{};{206}
+release purchase requisition (1);2022-01-12 09:46:10;{};{};{};{300020};{};{}
+release purchase requisition (2);2022-01-12 16:01:01;{};{};{};{300020};{};{}
+convert to purchase order;2022-01-13 12:33:56;{};{};{ACT-BCD};{300020};{70020};{206}
+create production order;2022-01-19 16:07:58;{990006};{000000000050066346};{DPC1015,DPC1018};{};{};{24}
+release purchase order;2022-01-19 20:49:01;{};{};{};{};{70018};{}
+release purchase order;2022-01-20 15:33:44;{};{};{};{};{70020};{}
+create purchase requisition;2022-01-20 16:43:59;{};{};{DPC1018};{300021};{};{24}
+release purchase order;2022-01-20 16:46:05;{};{};{};{};{70017};{}
+release purchase order;2022-01-20 17:32:29;{};{};{};{};{70019};{}
+goods receipt for purchase order;2022-01-21 10:11:34;{};{};{ACT-BCD};{};{70020};{206}
+goods receipt for purchase order;2022-01-21 10:52:36;{};{};{AZ2-742};{};{70018};{398}
+goods receipt for purchase order;2022-01-21 11:47:35;{};{};{AM2-540};{};{70017};{501}
+release purchase requisition (1);2022-01-21 14:03:30;{};{};{};{300021};{};{}
+release purchase order;2022-01-21 15:00:41;{};{};{};{};{70016};{}
+release purchase requisition (2);2022-01-21 15:46:02;{};{};{};{300021};{};{}
+create purchase requisition;2022-01-21 16:40:56;{};{};{DPC1015};{300022};{};{24}
+release purchase order;2022-01-21 17:16:09;{};{};{};{};{70015};{}
+goods issue for production order;2022-01-21 18:36:16;{990038};{};{AZ2-742};{};{};{398}
+goods issue for production order;2022-01-24 09:55:19;{990032};{};{AM2-540};{};{};{501}
+goods receipt for purchase order;2022-01-24 10:12:30;{};{};{HT-MEC0717};{};{70019};{796}
+convert to purchase order;2022-01-24 11:38:03;{};{};{DPC1018};{300021};{70021};{24}
+release purchase requisition (1);2022-01-24 12:35:30;{};{};{};{300022};{};{}
+goods receipt for purchase order;2022-01-24 16:40:02;{};{};{HT-MEC9417};{};{70016};{501}
+goods issue for production order;2022-01-24 17:31:58;{990009};{};{ACT-BCD};{};{};{206}
+confirm production order;2022-01-24 17:31:58;{990009};{ACT-DCD-11};{};{};{};{206}
+goods issue for production order;2022-01-25 09:58:06;{990038};{};{HT-MEC0717};{};{};{796}
+confirm production order;2022-01-25 09:58:06;{990038};{IBP-120};{};{};{};{398}
+goods receipt for purchase order;2022-01-25 11:02:09;{};{};{HT-S2011600-7};{};{70015};{501}
+release purchase requisition (2);2022-01-26 09:40:51;{};{};{};{300022};{};{}
+goods issue for production order;2022-01-26 10:07:59;{990032};{};{HT-MEC9417};{};{};{501}
+goods issue for production order;2022-01-26 14:02:14;{990032};{};{HT-S2011600-7};{};{};{501}
+confirm production order;2022-01-26 14:02:14;{990032};{CLIP-ON_MIC};{};{};{};{501}
+convert to purchase order;2022-01-28 15:19:33;{};{};{DPC1015};{300022};{70022};{24}
+reject purchase order;2022-02-01 10:28:36;{};{};{};{};{70021};{}
+create purchase requisition;2022-02-01 15:18:19;{};{};{DPC1018};{300023};{};{24}
+release purchase requisition (1);2022-02-02 16:09:00;{};{};{};{300023};{};{}
+release purchase requisition (2);2022-02-03 16:00:34;{};{};{};{300023};{};{}
+convert to purchase order;2022-02-04 14:54:13;{};{};{DPC1018};{300023};{70023};{24}
+create production order;2022-02-09 15:02:58;{990045};{ACT-DCD-11};{ACT-BCD};{};{};{334}
+create purchase requisition;2022-02-09 15:48:56;{};{};{ACT-BCD};{300024};{};{334}
+reject purchase order;2022-02-10 15:11:18;{};{};{};{};{70022};{}
+create purchase requisition;2022-02-10 17:46:41;{};{};{DPC1015};{300025};{};{24}
+release purchase requisition (1);2022-02-11 15:55:14;{};{};{};{300025};{};{}
+release purchase requisition (2);2022-02-11 17:16:55;{};{};{};{300025};{};{}
+release purchase requisition (1);2022-02-14 12:02:12;{};{};{};{300024};{};{}
+convert to purchase order;2022-02-15 11:04:38;{};{};{DPC1015};{300025};{70024};{24}
+release purchase requisition (2);2022-02-15 13:41:00;{};{};{};{300024};{};{}
+convert to purchase order;2022-02-15 15:42:37;{};{};{ACT-BCD};{300024};{70025};{334}
+create production order;2022-02-17 12:16:55;{990014};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{181}
+create purchase requisition;2022-02-17 13:43:29;{};{};{HT-MEC0717};{300026};{};{362}
+release purchase requisition (1);2022-02-17 14:55:30;{};{};{};{300026};{};{}
+release purchase requisition (2);2022-02-18 09:14:05;{};{};{};{300026};{};{}
+convert to purchase order;2022-02-18 15:04:17;{};{};{HT-MEC0717};{300026};{70026};{362}
+create purchase requisition;2022-02-18 18:27:12;{};{};{AZ2-742};{300027};{};{181}
+reject purchase order;2022-02-21 10:59:27;{};{};{};{};{70023};{}
+create purchase requisition;2022-02-21 13:57:55;{};{};{DPC1018};{300028};{};{24}
+release purchase order;2022-02-21 16:46:33;{};{};{};{};{70026};{}
+release purchase requisition (1);2022-02-21 16:56:56;{};{};{};{300028};{};{}
+release purchase order;2022-02-21 18:49:58;{};{};{};{};{70024};{}
+goods receipt for purchase order;2022-02-22 11:14:51;{};{};{HT-MEC0717};{};{70026};{362}
+release purchase requisition (1);2022-02-22 14:15:59;{};{};{};{300027};{};{}
+release purchase requisition (2);2022-02-22 21:31:46;{};{};{};{300027};{};{}
+goods receipt for purchase order;2022-02-23 08:51:25;{};{};{DPC1015};{};{70024};{24}
+convert to purchase order;2022-02-23 09:31:01;{};{};{AZ2-742};{300027};{70027};{181}
+release purchase requisition (2);2022-02-23 09:54:42;{};{};{};{300028};{};{}
+create production order;2022-02-23 10:44:01;{990034};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{390}
+create purchase requisition;2022-02-23 11:47:35;{};{};{HT-MEC9417};{300029};{};{390}
+release purchase requisition (1);2022-02-23 11:56:07;{};{};{};{300029};{};{}
+create purchase requisition;2022-02-23 15:33:53;{};{};{AM2-540};{300030};{};{390}
+release purchase requisition (1);2022-02-23 15:48:08;{};{};{};{300030};{};{}
+convert to purchase order;2022-02-24 09:20:22;{};{};{DPC1018};{300028};{70028};{24}
+goods issue for production order;2022-02-24 10:32:03;{990014};{};{HT-MEC0717};{};{};{362}
+create purchase requisition;2022-02-24 11:05:07;{};{};{HT-S2011600-7};{300031};{};{390}
+release purchase requisition (2);2022-02-24 12:12:20;{};{};{};{300030};{};{}
+convert to purchase order;2022-02-24 12:53:04;{};{};{AM2-540};{300030};{70029};{390}
+reject purchase order;2022-02-24 15:40:12;{};{};{};{};{70027};{}
+release purchase requisition (1);2022-02-24 15:45:22;{};{};{};{300031};{};{}
+goods issue for production order;2022-02-24 21:45:37;{990006};{};{DPC1015};{};{};{24}
+release purchase requisition (2);2022-02-25 10:01:24;{};{};{};{300029};{};{}
+convert to purchase order;2022-02-25 13:20:02;{};{};{HT-MEC9417};{300029};{70030};{390}
+release purchase order;2022-02-25 17:23:46;{};{};{};{};{70030};{}
+release purchase requisition (2);2022-02-25 17:45:05;{};{};{};{300031};{};{}
+goods receipt for purchase order;2022-02-28 09:57:02;{};{};{HT-MEC9417};{};{70030};{390}
+goods issue for production order;2022-02-28 18:39:36;{990034};{};{HT-MEC9417};{};{};{390}
+convert to purchase order;2022-03-01 10:22:17;{};{};{HT-S2011600-7};{300031};{70031};{390}
+create purchase requisition;2022-03-01 13:23:06;{};{};{AZ2-742};{300032};{};{181}
+release purchase requisition (1);2022-03-01 15:05:33;{};{};{};{300032};{};{}
+release purchase requisition (2);2022-03-03 09:33:56;{};{};{};{300032};{};{}
+convert to purchase order;2022-03-04 15:38:14;{};{};{AZ2-742};{300032};{70032};{181}
+release purchase order;2022-03-07 17:41:02;{};{};{};{};{70028};{}
+goods receipt for purchase order;2022-03-08 15:09:25;{};{};{DPC1018};{};{70028};{24}
+goods issue for production order;2022-03-09 08:43:14;{990006};{};{DPC1018};{};{};{24}
+confirm production order;2022-03-09 08:43:14;{990006};{000000000050066346};{};{};{};{24}
+release purchase order;2022-03-09 13:59:22;{};{};{};{};{70029};{}
+goods receipt for purchase order;2022-03-09 17:13:03;{};{};{AM2-540};{};{70029};{390}
+goods issue for production order;2022-03-10 10:21:57;{990034};{};{AM2-540};{};{};{390}
+reject purchase order;2022-03-10 16:39:55;{};{};{};{};{70025};{}
+create purchase requisition;2022-03-11 11:03:21;{};{};{ACT-BCD};{300033};{};{334}
+release purchase requisition (1);2022-03-11 16:03:51;{};{};{};{300033};{};{}
+release purchase requisition (2);2022-03-15 14:49:23;{};{};{};{300033};{};{}
+create production order;2022-03-15 15:33:56;{990005};{000000000050066346};{DPC1015,DPC1018};{};{};{110}
+create purchase requisition;2022-03-15 16:49:31;{};{};{DPC1018};{300034};{};{110}
+create purchase requisition;2022-03-15 20:32:30;{};{};{DPC1015};{300035};{};{110}
+release purchase requisition (1);2022-03-16 10:01:31;{};{};{};{300035};{};{}
+release purchase order;2022-03-16 16:18:33;{};{};{};{};{70031};{}
+release purchase requisition (2);2022-03-16 16:35:51;{};{};{};{300035};{};{}
+goods receipt for purchase order;2022-03-16 17:31:27;{};{};{HT-S2011600-7};{};{70031};{390}
+convert to purchase order;2022-03-17 10:16:01;{};{};{ACT-BCD};{300033};{70033};{334}
+convert to purchase order;2022-03-17 12:02:06;{};{};{DPC1015};{300035};{70034};{110}
+release purchase requisition (1);2022-03-17 16:19:22;{};{};{};{300034};{};{}
+release purchase order;2022-03-17 18:14:28;{};{};{};{};{70032};{}
+release purchase requisition (2);2022-03-18 10:55:38;{};{};{};{300034};{};{}
+convert to purchase order;2022-03-18 17:45:13;{};{};{DPC1018};{300034};{70035};{110}
+goods issue for production order;2022-03-21 12:11:07;{990034};{};{HT-S2011600-7};{};{};{390}
+confirm production order;2022-03-21 12:11:07;{990034};{CLIP-ON_MIC};{};{};{};{390}
+goods receipt for purchase order;2022-03-21 19:12:01;{};{};{AZ2-742};{};{70032};{181}
+goods issue for production order;2022-03-23 10:21:41;{990014};{};{AZ2-742};{};{};{181}
+confirm production order;2022-03-23 10:21:41;{990014};{IBP-120};{};{};{};{181}
+create production order;2022-03-25 15:28:02;{990041};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{15}
+create purchase requisition;2022-03-28 11:24:26;{};{};{HT-MEC0717};{300036};{};{30}
+release purchase order;2022-03-28 12:20:41;{};{};{};{};{70035};{}
+release purchase requisition (1);2022-03-28 14:42:21;{};{};{};{300036};{};{}
+goods receipt for purchase order;2022-03-28 17:06:21;{};{};{DPC1018};{};{70035};{110}
+release purchase requisition (2);2022-03-29 12:33:32;{};{};{};{300036};{};{}
+create purchase requisition;2022-03-29 18:09:57;{};{};{AZ2-742};{300037};{};{15}
+release purchase requisition (1);2022-03-30 08:33:55;{};{};{};{300037};{};{}
+create production order;2022-03-30 14:31:36;{990048};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{246}
+release purchase requisition (2);2022-03-30 15:29:28;{};{};{};{300037};{};{}
+convert to purchase order;2022-03-30 16:11:05;{};{};{HT-MEC0717};{300036};{70036};{30}
+convert to purchase order;2022-03-30 17:41:52;{};{};{AZ2-742};{300037};{70037};{15}
+create purchase requisition;2022-03-31 14:05:32;{};{};{HT-MEC9417};{300038};{};{246}
+create purchase requisition;2022-03-31 18:01:19;{};{};{AM2-540};{300039};{};{246}
+create purchase requisition;2022-04-01 09:26:13;{};{};{HT-S2011600-7};{300040};{};{246}
+release purchase order;2022-04-01 14:50:29;{};{};{};{};{70034};{}
+release purchase requisition (1);2022-04-01 15:01:42;{};{};{};{300039};{};{}
+release purchase requisition (1);2022-04-01 16:04:56;{};{};{};{300040};{};{}
+release purchase requisition (2);2022-04-01 16:35:07;{};{};{};{300040};{};{}
+goods issue for production order;2022-04-01 18:55:30;{990005};{};{DPC1018};{};{};{110}
+release purchase order;2022-04-04 09:46:37;{};{};{};{};{70037};{}
+release purchase requisition (2);2022-04-04 10:20:16;{};{};{};{300039};{};{}
+goods receipt for purchase order;2022-04-04 11:50:23;{};{};{AZ2-742};{};{70037};{15}
+convert to purchase order;2022-04-04 13:50:06;{};{};{HT-S2011600-7};{300040};{70038};{246}
+convert to purchase order;2022-04-04 15:26:13;{};{};{AM2-540};{300039};{70039};{246}
+release purchase requisition (1);2022-04-04 15:55:50;{};{};{};{300038};{};{}
+goods receipt for purchase order;2022-04-05 10:10:00;{};{};{DPC1015};{};{70034};{110}
+release purchase requisition (2);2022-04-05 12:04:01;{};{};{};{300038};{};{}
+release purchase order;2022-04-05 16:09:32;{};{};{};{};{70036};{}
+convert to purchase order;2022-04-05 16:51:08;{};{};{HT-MEC9417};{300038};{70040};{246}
+goods receipt for purchase order;2022-04-05 21:45:50;{};{};{HT-MEC0717};{};{70036};{30}
+goods issue for production order;2022-04-06 11:26:43;{990005};{};{DPC1015};{};{};{110}
+confirm production order;2022-04-06 11:26:43;{990005};{000000000050066346};{};{};{};{110}
+release purchase order;2022-04-06 15:38:21;{};{};{};{};{70038};{}
+create production order;2022-04-07 10:29:47;{990033};{000000000050066346};{DPC1015,DPC1018};{};{};{39}
+release purchase order;2022-04-07 11:47:47;{};{};{};{};{70039};{}
+create purchase requisition;2022-04-07 15:27:19;{};{};{DPC1015};{300041};{};{39}
+release purchase order;2022-04-07 16:14:58;{};{};{};{};{70033};{}
+goods receipt for purchase order;2022-04-07 20:26:29;{};{};{ACT-BCD};{};{70033};{334}
+release purchase requisition (1);2022-04-07 20:32:43;{};{};{};{300041};{};{}
+goods receipt for purchase order;2022-04-08 11:55:36;{};{};{HT-S2011600-7};{};{70038};{246}
+release purchase requisition (2);2022-04-08 16:43:51;{};{};{};{300041};{};{}
+convert to purchase order;2022-04-11 10:02:35;{};{};{DPC1015};{300041};{70041};{39}
+goods issue for production order;2022-04-11 11:25:38;{990041};{};{AZ2-742};{};{};{15}
+goods issue for production order;2022-04-11 11:47:48;{990041};{};{HT-MEC0717};{};{};{30}
+confirm production order;2022-04-11 11:47:48;{990041};{IBP-120};{};{};{};{15}
+create purchase requisition;2022-04-11 11:49:04;{};{};{DPC1018};{300042};{};{39}
+goods issue for production order;2022-04-11 17:35:35;{990045};{};{ACT-BCD};{};{};{334}
+confirm production order;2022-04-11 17:35:35;{990045};{ACT-DCD-11};{};{};{};{334}
+goods issue for production order;2022-04-11 18:47:55;{990048};{};{HT-S2011600-7};{};{};{246}
+goods receipt for purchase order;2022-04-12 10:56:39;{};{};{AM2-540};{};{70039};{246}
+release purchase requisition (1);2022-04-12 13:06:07;{};{};{};{300042};{};{}
+release purchase requisition (2);2022-04-12 15:06:01;{};{};{};{300042};{};{}
+create production order;2022-04-13 13:11:21;{990027};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{489}
+convert to purchase order;2022-04-13 14:06:03;{};{};{DPC1018};{300042};{70042};{39}
+goods issue for production order;2022-04-13 19:43:29;{990048};{};{AM2-540};{};{};{246}
+release purchase order;2022-04-18 12:15:13;{};{};{};{};{70041};{}
+goods receipt for purchase order;2022-04-18 14:53:17;{};{};{DPC1015};{};{70041};{39}
+create purchase requisition;2022-04-18 14:57:41;{};{};{AZ2-742};{300043};{};{489}
+create purchase requisition;2022-04-18 21:36:14;{};{};{HT-MEC0717};{300044};{};{978}
+release purchase order;2022-04-19 10:36:21;{};{};{};{};{70040};{}
+goods receipt for purchase order;2022-04-19 11:41:50;{};{};{HT-MEC9417};{};{70040};{246}
+release purchase requisition (1);2022-04-19 13:43:37;{};{};{};{300043};{};{}
+release purchase requisition (2);2022-04-19 16:45:33;{};{};{};{300043};{};{}
+release purchase requisition (1);2022-04-19 17:12:31;{};{};{};{300044};{};{}
+goods issue for production order;2022-04-19 17:30:41;{990033};{};{DPC1015};{};{};{39}
+convert to purchase order;2022-04-20 14:10:50;{};{};{AZ2-742};{300043};{70043};{489}
+release purchase requisition (2);2022-04-21 10:29:55;{};{};{};{300044};{};{}
+convert to purchase order;2022-04-21 10:51:27;{};{};{HT-MEC0717};{300044};{70044};{978}
+release purchase order;2022-04-21 12:50:14;{};{};{};{};{70042};{}
+goods issue for production order;2022-04-21 15:08:43;{990048};{};{HT-MEC9417};{};{};{246}
+confirm production order;2022-04-21 15:08:43;{990048};{CLIP-ON_MIC};{};{};{};{246}
+goods receipt for purchase order;2022-04-25 09:18:47;{};{};{DPC1018};{};{70042};{39}
+goods issue for production order;2022-04-25 14:54:44;{990033};{};{DPC1018};{};{};{39}
+confirm production order;2022-04-25 14:54:44;{990033};{000000000050066346};{};{};{};{39}
+reject purchase order;2022-04-27 16:40:29;{};{};{};{};{70043};{}
+create purchase requisition;2022-04-28 14:50:27;{};{};{AZ2-742};{300045};{};{489}
+release purchase requisition (1);2022-04-29 10:14:01;{};{};{};{300045};{};{}
+create production order;2022-04-29 11:04:59;{990035};{000000000050066346};{DPC1015,DPC1018};{};{};{406}
+release purchase requisition (2);2022-04-29 17:19:26;{};{};{};{300045};{};{}
+create purchase requisition;2022-04-29 17:33:41;{};{};{DPC1015};{300046};{};{406}
+convert to purchase order;2022-04-29 19:08:18;{};{};{AZ2-742};{300045};{70045};{489}
+release purchase requisition (1);2022-05-02 12:17:38;{};{};{};{300046};{};{}
+create purchase requisition;2022-05-02 14:36:59;{};{};{DPC1018};{300047};{};{406}
+release purchase requisition (1);2022-05-02 16:16:26;{};{};{};{300047};{};{}
+release purchase requisition (2);2022-05-02 16:35:46;{};{};{};{300047};{};{}
+convert to purchase order;2022-05-03 10:36:22;{};{};{DPC1018};{300047};{70046};{406}
+release purchase order;2022-05-03 10:55:14;{};{};{};{};{70044};{}
+create production order;2022-05-03 11:21:11;{990016};{ACT-DCD-11};{ACT-BCD};{};{};{192}
+release purchase requisition (2);2022-05-03 13:32:58;{};{};{};{300046};{};{}
+goods receipt for purchase order;2022-05-03 15:55:12;{};{};{HT-MEC0717};{};{70044};{978}
+convert to purchase order;2022-05-04 10:36:32;{};{};{DPC1015};{300046};{70047};{406}
+create purchase requisition;2022-05-04 16:07:47;{};{};{ACT-BCD};{300048};{};{192}
+release purchase requisition (1);2022-05-05 08:37:50;{};{};{};{300048};{};{}
+create production order;2022-05-05 09:51:08;{990042};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{13}
+create purchase requisition;2022-05-05 12:26:17;{};{};{HT-S2011600-7};{300049};{};{13}
+release purchase order;2022-05-05 13:59:44;{};{};{};{};{70046};{}
+release purchase requisition (2);2022-05-05 14:39:09;{};{};{};{300048};{};{}
+create purchase requisition;2022-05-05 15:35:20;{};{};{AM2-540};{300050};{};{13}
+convert to purchase order;2022-05-05 16:15:26;{};{};{ACT-BCD};{300048};{70048};{192}
+release purchase requisition (1);2022-05-05 16:50:54;{};{};{};{300050};{};{}
+create purchase requisition;2022-05-05 17:47:01;{};{};{HT-MEC9417};{300051};{};{13}
+release purchase requisition (1);2022-05-06 10:56:03;{};{};{};{300051};{};{}
+goods receipt for purchase order;2022-05-06 11:10:16;{};{};{DPC1018};{};{70046};{406}
+goods issue for production order;2022-05-06 13:03:34;{990035};{};{DPC1018};{};{};{406}
+release purchase requisition (1);2022-05-06 21:35:37;{};{};{};{300049};{};{}
+release purchase order;2022-05-09 08:20:24;{};{};{};{};{70048};{}
+release purchase requisition (2);2022-05-09 09:00:41;{};{};{};{300050};{};{}
+convert to purchase order;2022-05-09 11:09:21;{};{};{AM2-540};{300050};{70049};{13}
+goods receipt for purchase order;2022-05-09 12:04:53;{};{};{ACT-BCD};{};{70048};{192}
+release purchase requisition (2);2022-05-09 15:23:15;{};{};{};{300051};{};{}
+reject purchase order;2022-05-10 10:43:53;{};{};{};{};{70045};{}
+goods issue for production order;2022-05-10 11:48:14;{990027};{};{HT-MEC0717};{};{};{978}
+convert to purchase order;2022-05-10 12:10:08;{};{};{HT-MEC9417};{300051};{70050};{13}
+release purchase requisition (2);2022-05-10 12:34:16;{};{};{};{300049};{};{}
+create purchase requisition;2022-05-10 14:52:17;{};{};{AZ2-742};{300052};{};{489}
+release purchase requisition (1);2022-05-10 17:31:27;{};{};{};{300052};{};{}
+reject purchase order;2022-05-11 13:09:56;{};{};{};{};{70047};{}
+create purchase requisition;2022-05-12 09:37:14;{};{};{DPC1015};{300053};{};{406}
+convert to purchase order;2022-05-12 14:24:48;{};{};{HT-S2011600-7};{300049};{70051};{13}
+release purchase requisition (2);2022-05-12 14:39:29;{};{};{};{300052};{};{}
+release purchase requisition (1);2022-05-12 16:12:05;{};{};{};{300053};{};{}
+convert to purchase order;2022-05-12 18:05:39;{};{};{AZ2-742};{300052};{70052};{489}
+release purchase requisition (2);2022-05-13 09:47:25;{};{};{};{300053};{};{}
+reject purchase order;2022-05-13 13:17:48;{};{};{};{};{70052};{}
+create purchase requisition;2022-05-13 14:26:56;{};{};{AZ2-742};{300054};{};{489}
+release purchase order;2022-05-16 10:55:07;{};{};{};{};{70049};{}
+goods receipt for purchase order;2022-05-16 15:10:23;{};{};{AM2-540};{};{70049};{13}
+convert to purchase order;2022-05-16 15:38:22;{};{};{DPC1015};{300053};{70053};{406}
+release purchase requisition (1);2022-05-16 15:46:31;{};{};{};{300054};{};{}
+goods issue for production order;2022-05-17 10:24:23;{990042};{};{AM2-540};{};{};{13}
+release purchase requisition (2);2022-05-17 11:37:01;{};{};{};{300054};{};{}
+convert to purchase order;2022-05-17 13:01:52;{};{};{AZ2-742};{300054};{70054};{489}
+release purchase order;2022-05-17 18:11:42;{};{};{};{};{70050};{}
+goods receipt for purchase order;2022-05-18 12:00:34;{};{};{HT-MEC9417};{};{70050};{13}
+reject purchase order;2022-05-18 13:28:50;{};{};{};{};{70051};{}
+create purchase requisition;2022-05-18 13:32:52;{};{};{HT-S2011600-7};{300055};{};{13}
+release purchase order;2022-05-18 15:43:26;{};{};{};{};{70054};{}
+goods receipt for purchase order;2022-05-19 13:43:16;{};{};{AZ2-742};{};{70054};{489}
+release purchase requisition (1);2022-05-20 12:25:57;{};{};{};{300055};{};{}
+release purchase requisition (2);2022-05-20 12:56:53;{};{};{};{300055};{};{}
+convert to purchase order;2022-05-20 15:05:17;{};{};{HT-S2011600-7};{300055};{70055};{13}
+goods issue for production order;2022-05-23 10:21:01;{990027};{};{AZ2-742};{};{};{489}
+confirm production order;2022-05-23 10:21:01;{990027};{IBP-120};{};{};{};{489}
+goods issue for production order;2022-05-23 11:53:03;{990042};{};{HT-MEC9417};{};{};{13}
+release purchase order;2022-05-24 16:30:35;{};{};{};{};{70053};{}
+goods issue for production order;2022-05-25 17:19:01;{990016};{};{ACT-BCD};{};{};{192}
+confirm production order;2022-05-25 17:19:01;{990016};{ACT-DCD-11};{};{};{};{192}
+goods receipt for purchase order;2022-05-30 16:31:52;{};{};{DPC1015};{};{70053};{406}
+goods issue for production order;2022-05-31 10:21:21;{990035};{};{DPC1015};{};{};{406}
+confirm production order;2022-05-31 10:21:21;{990035};{000000000050066346};{};{};{};{406}
+release purchase order;2022-06-03 10:51:35;{};{};{};{};{70055};{}
+goods receipt for purchase order;2022-06-06 21:51:02;{};{};{HT-S2011600-7};{};{70055};{13}
+goods issue for production order;2022-06-07 19:24:13;{990042};{};{HT-S2011600-7};{};{};{13}
+confirm production order;2022-06-07 19:24:13;{990042};{CLIP-ON_MIC};{};{};{};{13}
+create production order;2022-06-09 10:45:54;{990011};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{87}
+create purchase requisition;2022-06-09 17:23:09;{};{};{AZ2-742};{300056};{};{87}
+create purchase requisition;2022-06-13 11:10:51;{};{};{HT-MEC0717};{300057};{};{174}
+release purchase requisition (1);2022-06-13 12:35:31;{};{};{};{300056};{};{}
+release purchase requisition (2);2022-06-13 16:30:27;{};{};{};{300056};{};{}
+convert to purchase order;2022-06-14 16:05:42;{};{};{AZ2-742};{300056};{70056};{87}
+release purchase requisition (1);2022-06-15 09:44:21;{};{};{};{300057};{};{}
+release purchase requisition (2);2022-06-15 10:47:09;{};{};{};{300057};{};{}
+convert to purchase order;2022-06-15 13:12:41;{};{};{HT-MEC0717};{300057};{70057};{174}
+create production order;2022-06-21 11:18:45;{990026};{ACT-DCD-11};{ACT-BCD};{};{};{108}
+release purchase order;2022-06-21 14:16:18;{};{};{};{};{70057};{}
+create purchase requisition;2022-06-22 10:26:36;{};{};{ACT-BCD};{300058};{};{108}
+release purchase requisition (1);2022-06-22 13:58:52;{};{};{};{300058};{};{}
+release purchase requisition (2);2022-06-23 12:20:55;{};{};{};{300058};{};{}
+convert to purchase order;2022-06-23 14:51:57;{};{};{ACT-BCD};{300058};{70058};{108}
+goods receipt for purchase order;2022-06-23 16:37:02;{};{};{HT-MEC0717};{};{70057};{174}
+release purchase order;2022-06-24 12:51:41;{};{};{};{};{70058};{}
+goods receipt for purchase order;2022-06-24 15:53:20;{};{};{ACT-BCD};{};{70058};{108}
+goods issue for production order;2022-06-27 12:31:30;{990026};{};{ACT-BCD};{};{};{108}
+confirm production order;2022-06-27 12:31:30;{990026};{ACT-DCD-11};{};{};{};{108}
+create production order;2022-06-27 15:53:23;{990029};{000000000050066346};{DPC1015,DPC1018};{};{};{501}
+create purchase requisition;2022-06-27 18:21:31;{};{};{DPC1018};{300059};{};{501}
+create purchase requisition;2022-06-28 15:32:31;{};{};{DPC1015};{300060};{};{501}
+release purchase requisition (1);2022-06-28 15:33:03;{};{};{};{300060};{};{}
+release purchase requisition (1);2022-06-28 15:34:18;{};{};{};{300059};{};{}
+release purchase order;2022-06-29 11:42:03;{};{};{};{};{70056};{}
+goods receipt for purchase order;2022-06-29 12:54:23;{};{};{AZ2-742};{};{70056};{87}
+release purchase requisition (2);2022-06-29 13:56:53;{};{};{};{300059};{};{}
+release purchase requisition (2);2022-06-30 08:45:42;{};{};{};{300060};{};{}
+convert to purchase order;2022-06-30 11:06:14;{};{};{DPC1018};{300059};{70059};{501}
+goods issue for production order;2022-06-30 14:58:29;{990011};{};{HT-MEC0717};{};{};{174}
+goods issue for production order;2022-06-30 18:26:01;{990011};{};{AZ2-742};{};{};{87}
+confirm production order;2022-06-30 18:26:01;{990011};{IBP-120};{};{};{};{87}
+convert to purchase order;2022-06-30 21:14:40;{};{};{DPC1015};{300060};{70060};{501}
+create production order;2022-07-07 09:26:15;{990025};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{440}
+create production order;2022-07-07 15:54:22;{990030};{ACT-DCD-11};{ACT-BCD};{};{};{73}
+create purchase requisition;2022-07-07 17:01:00;{};{};{ACT-BCD};{300061};{};{73}
+create purchase requisition;2022-07-08 14:55:22;{};{};{HT-MEC9417};{300062};{};{440}
+create purchase requisition;2022-07-08 16:23:37;{};{};{AM2-540};{300063};{};{440}
+release purchase requisition (1);2022-07-08 19:34:21;{};{};{};{300061};{};{}
+release purchase requisition (1);2022-07-11 10:32:37;{};{};{};{300063};{};{}
+create purchase requisition;2022-07-11 10:42:18;{};{};{HT-S2011600-7};{300064};{};{440}
+release purchase requisition (1);2022-07-11 11:34:24;{};{};{};{300062};{};{}
+release purchase requisition (2);2022-07-11 16:15:44;{};{};{};{300062};{};{}
+release purchase requisition (2);2022-07-11 16:25:19;{};{};{};{300063};{};{}
+convert to purchase order;2022-07-11 16:59:51;{};{};{HT-MEC9417};{300062};{70061};{440}
+release purchase requisition (1);2022-07-12 15:27:25;{};{};{};{300064};{};{}
+release purchase requisition (2);2022-07-12 16:09:49;{};{};{};{300061};{};{}
+release purchase order;2022-07-12 17:16:44;{};{};{};{};{70059};{}
+release purchase order;2022-07-12 17:49:08;{};{};{};{};{70061};{}
+reject purchase order;2022-07-13 13:30:04;{};{};{};{};{70060};{}
+goods receipt for purchase order;2022-07-13 16:17:31;{};{};{DPC1018};{};{70059};{501}
+create purchase requisition;2022-07-13 17:39:32;{};{};{DPC1015};{300065};{};{501}
+release purchase requisition (1);2022-07-13 17:46:44;{};{};{};{300065};{};{}
+goods receipt for purchase order;2022-07-13 20:34:48;{};{};{HT-MEC9417};{};{70061};{440}
+convert to purchase order;2022-07-14 09:56:25;{};{};{ACT-BCD};{300061};{70062};{73}
+goods issue for production order;2022-07-14 11:45:32;{990025};{};{HT-MEC9417};{};{};{440}
+convert to purchase order;2022-07-14 16:01:38;{};{};{AM2-540};{300063};{70063};{440}
+release purchase requisition (2);2022-07-14 16:07:48;{};{};{};{300064};{};{}
+convert to purchase order;2022-07-15 15:14:07;{};{};{HT-S2011600-7};{300064};{70064};{440}
+goods issue for production order;2022-07-15 16:20:36;{990029};{};{DPC1018};{};{};{501}
+release purchase requisition (2);2022-07-18 13:10:06;{};{};{};{300065};{};{}
+convert to purchase order;2022-07-18 19:08:45;{};{};{DPC1015};{300065};{70065};{501}
+release purchase order;2022-07-21 12:56:04;{};{};{};{};{70065};{}
+create production order;2022-07-22 11:40:27;{990012};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{317}
+goods receipt for purchase order;2022-07-22 12:14:47;{};{};{DPC1015};{};{70065};{501}
+goods issue for production order;2022-07-25 15:30:03;{990029};{};{DPC1015};{};{};{501}
+confirm production order;2022-07-25 15:30:03;{990029};{000000000050066346};{};{};{};{501}
+create purchase requisition;2022-07-25 16:50:29;{};{};{HT-MEC0717};{300066};{};{634}
+release purchase order;2022-07-26 10:52:35;{};{};{};{};{70063};{}
+goods receipt for purchase order;2022-07-26 10:53:35;{};{};{AM2-540};{};{70063};{440}
+create purchase requisition;2022-07-26 13:35:51;{};{};{AZ2-742};{300067};{};{317}
+release purchase requisition (1);2022-07-26 13:43:24;{};{};{};{300067};{};{}
+release purchase requisition (2);2022-07-26 16:00:55;{};{};{};{300067};{};{}
+convert to purchase order;2022-07-26 17:23:37;{};{};{AZ2-742};{300067};{70066};{317}
+release purchase requisition (1);2022-07-27 12:18:59;{};{};{};{300066};{};{}
+release purchase order;2022-07-28 14:51:29;{};{};{};{};{70062};{}
+release purchase requisition (2);2022-07-28 18:13:40;{};{};{};{300066};{};{}
+convert to purchase order;2022-08-01 13:40:09;{};{};{HT-MEC0717};{300066};{70067};{634}
+goods receipt for purchase order;2022-08-02 12:10:37;{};{};{ACT-BCD};{};{70062};{73}
+release purchase order;2022-08-02 16:19:54;{};{};{};{};{70064};{}
+goods receipt for purchase order;2022-08-02 19:03:56;{};{};{HT-S2011600-7};{};{70064};{440}
+goods issue for production order;2022-08-03 11:07:54;{990025};{};{AM2-540};{};{};{440}
+goods issue for production order;2022-08-05 10:25:29;{990030};{};{ACT-BCD};{};{};{73}
+confirm production order;2022-08-05 10:25:29;{990030};{ACT-DCD-11};{};{};{};{73}
+release purchase order;2022-08-05 11:00:15;{};{};{};{};{70067};{}
+release purchase order;2022-08-05 15:37:04;{};{};{};{};{70066};{}
+create production order;2022-08-08 15:46:27;{990021};{ACT-DCD-11};{ACT-BCD};{};{};{340}
+create purchase requisition;2022-08-09 12:03:46;{};{};{ACT-BCD};{300068};{};{340}
+goods issue for production order;2022-08-09 15:18:17;{990025};{};{HT-S2011600-7};{};{};{440}
+confirm production order;2022-08-09 15:18:17;{990025};{CLIP-ON_MIC};{};{};{};{440}
+release purchase requisition (1);2022-08-11 12:56:17;{};{};{};{300068};{};{}
+goods receipt for purchase order;2022-08-11 13:20:43;{};{};{AZ2-742};{};{70066};{317}
+goods receipt for purchase order;2022-08-15 14:03:04;{};{};{HT-MEC0717};{};{70067};{634}
+release purchase requisition (2);2022-08-16 10:33:01;{};{};{};{300068};{};{}
+convert to purchase order;2022-08-18 19:32:01;{};{};{ACT-BCD};{300068};{70068};{340}
+create production order;2022-08-19 15:54:09;{990039};{000000000050066346};{DPC1015,DPC1018};{};{};{322}
+create purchase requisition;2022-08-25 13:45:07;{};{};{DPC1015};{300069};{};{322}
+create purchase requisition;2022-08-25 17:33:31;{};{};{DPC1018};{300070};{};{322}
+release purchase requisition (1);2022-08-26 10:20:01;{};{};{};{300069};{};{}
+release purchase requisition (1);2022-08-26 11:34:05;{};{};{};{300070};{};{}
+goods issue for production order;2022-08-26 14:27:30;{990012};{};{AZ2-742};{};{};{317}
+goods issue for production order;2022-08-29 15:15:52;{990012};{};{HT-MEC0717};{};{};{634}
+confirm production order;2022-08-29 15:15:52;{990012};{IBP-120};{};{};{};{317}
+release purchase requisition (2);2022-08-30 10:29:07;{};{};{};{300070};{};{}
+release purchase requisition (2);2022-08-31 09:05:47;{};{};{};{300069};{};{}
+convert to purchase order;2022-08-31 09:33:46;{};{};{DPC1015};{300069};{70069};{322}
+convert to purchase order;2022-08-31 09:57:45;{};{};{DPC1018};{300070};{70070};{322}
+create production order;2022-09-02 15:23:20;{990044};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{210}
+create purchase requisition;2022-09-05 11:58:02;{};{};{AM2-540};{300071};{};{210}
+create purchase requisition;2022-09-05 15:06:18;{};{};{HT-MEC9417};{300072};{};{210}
+release purchase requisition (1);2022-09-06 12:02:09;{};{};{};{300072};{};{}
+release purchase order;2022-09-06 13:29:38;{};{};{};{};{70070};{}
+create purchase requisition;2022-09-06 14:52:39;{};{};{HT-S2011600-7};{300073};{};{210}
+release purchase requisition (1);2022-09-06 16:58:32;{};{};{};{300073};{};{}
+release purchase requisition (1);2022-09-06 18:54:48;{};{};{};{300071};{};{}
+goods receipt for purchase order;2022-09-07 11:25:50;{};{};{DPC1018};{};{70070};{322}
+release purchase requisition (2);2022-09-07 11:38:17;{};{};{};{300073};{};{}
+release purchase requisition (2);2022-09-07 15:14:22;{};{};{};{300072};{};{}
+convert to purchase order;2022-09-07 15:14:24;{};{};{HT-S2011600-7};{300073};{70071};{210}
+release purchase requisition (2);2022-09-07 16:00:35;{};{};{};{300071};{};{}
+goods issue for production order;2022-09-07 17:01:56;{990039};{};{DPC1018};{};{};{322}
+convert to purchase order;2022-09-07 17:56:51;{};{};{HT-MEC9417};{300072};{70072};{210}
+convert to purchase order;2022-09-07 20:40:17;{};{};{AM2-540};{300071};{70073};{210}
+release purchase order;2022-09-12 09:05:44;{};{};{};{};{70073};{}
+goods receipt for purchase order;2022-09-12 10:54:54;{};{};{AM2-540};{};{70073};{210}
+release purchase order;2022-09-13 16:44:46;{};{};{};{};{70069};{}
+release purchase order;2022-09-14 11:56:09;{};{};{};{};{70071};{}
+release purchase order;2022-09-14 15:53:16;{};{};{};{};{70068};{}
+goods receipt for purchase order;2022-09-15 11:30:56;{};{};{DPC1015};{};{70069};{322}
+goods receipt for purchase order;2022-09-15 12:35:10;{};{};{ACT-BCD};{};{70068};{340}
+goods receipt for purchase order;2022-09-19 17:50:34;{};{};{HT-S2011600-7};{};{70071};{210}
+goods issue for production order;2022-09-20 11:11:35;{990021};{};{ACT-BCD};{};{};{340}
+confirm production order;2022-09-20 11:11:35;{990021};{ACT-DCD-11};{};{};{};{340}
+release purchase order;2022-09-21 09:25:28;{};{};{};{};{70072};{}
+create production order;2022-09-22 11:20:53;{990028};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{103}
+create purchase requisition;2022-09-22 11:33:38;{};{};{AZ2-742};{300074};{};{103}
+create purchase requisition;2022-09-22 16:50:46;{};{};{HT-MEC0717};{300075};{};{206}
+release purchase requisition (1);2022-09-23 11:21:45;{};{};{};{300074};{};{}
+goods issue for production order;2022-09-23 15:44:23;{990039};{};{DPC1015};{};{};{322}
+confirm production order;2022-09-23 15:44:23;{990039};{000000000050066346};{};{};{};{322}
+release purchase requisition (2);2022-09-23 15:58:51;{};{};{};{300074};{};{}
+goods receipt for purchase order;2022-09-26 08:44:29;{};{};{HT-MEC9417};{};{70072};{210}
+release purchase requisition (1);2022-09-26 12:31:51;{};{};{};{300075};{};{}
+convert to purchase order;2022-09-26 14:40:16;{};{};{AZ2-742};{300074};{70074};{103}
+release purchase requisition (2);2022-09-26 15:51:53;{};{};{};{300075};{};{}
+convert to purchase order;2022-09-26 16:54:11;{};{};{HT-MEC0717};{300075};{70075};{206}
+goods issue for production order;2022-09-27 11:40:26;{990044};{};{HT-S2011600-7};{};{};{210}
+create production order;2022-09-27 16:08:06;{990022};{ACT-DCD-11};{ACT-BCD};{};{};{71}
+create purchase requisition;2022-09-28 10:08:12;{};{};{ACT-BCD};{300076};{};{71}
+goods issue for production order;2022-09-28 10:30:01;{990044};{};{AM2-540};{};{};{210}
+release purchase requisition (1);2022-09-29 11:59:12;{};{};{};{300076};{};{}
+reject purchase order;2022-09-29 17:36:48;{};{};{};{};{70075};{}
+goods issue for production order;2022-09-29 21:12:47;{990044};{};{HT-MEC9417};{};{};{210}
+confirm production order;2022-09-29 21:12:47;{990044};{CLIP-ON_MIC};{};{};{};{210}
+create purchase requisition;2022-09-30 10:06:58;{};{};{HT-MEC0717};{300077};{};{206}
+release purchase requisition (1);2022-09-30 10:36:24;{};{};{};{300077};{};{}
+release purchase requisition (2);2022-09-30 17:02:57;{};{};{};{300076};{};{}
+convert to purchase order;2022-10-03 09:53:06;{};{};{ACT-BCD};{300076};{70076};{71}
+release purchase requisition (2);2022-10-03 13:22:33;{};{};{};{300077};{};{}
+convert to purchase order;2022-10-05 09:40:56;{};{};{HT-MEC0717};{300077};{70077};{206}
+release purchase order;2022-10-05 14:44:12;{};{};{};{};{70076};{}
+create production order;2022-10-05 14:50:42;{990036};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{390}
+reject purchase order;2022-10-05 15:21:51;{};{};{};{};{70074};{}
+create purchase requisition;2022-10-05 15:55:27;{};{};{HT-S2011600-7};{300078};{};{390}
+create production order;2022-10-05 16:48:11;{990047};{000000000050066346};{DPC1015,DPC1018};{};{};{196}
+release purchase requisition (1);2022-10-05 17:35:11;{};{};{};{300078};{};{}
+create purchase requisition;2022-10-05 17:44:19;{};{};{AM2-540};{300079};{};{390}
+release purchase requisition (2);2022-10-06 10:47:02;{};{};{};{300078};{};{}
+release purchase requisition (1);2022-10-06 12:28:22;{};{};{};{300079};{};{}
+create purchase requisition;2022-10-07 09:22:03;{};{};{DPC1018};{300080};{};{196}
+release purchase requisition (1);2022-10-07 12:32:05;{};{};{};{300080};{};{}
+goods receipt for purchase order;2022-10-07 19:48:58;{};{};{ACT-BCD};{};{70076};{71}
+release purchase requisition (2);2022-10-10 11:38:39;{};{};{};{300079};{};{}
+create purchase requisition;2022-10-10 12:52:25;{};{};{HT-MEC9417};{300081};{};{390}
+release purchase requisition (2);2022-10-10 14:04:28;{};{};{};{300080};{};{}
+convert to purchase order;2022-10-10 14:36:17;{};{};{DPC1018};{300080};{70078};{196}
+create purchase requisition;2022-10-10 15:56:09;{};{};{DPC1015};{300082};{};{196}
+create purchase requisition;2022-10-11 09:35:21;{};{};{AZ2-742};{300083};{};{103}
+convert to purchase order;2022-10-11 11:44:45;{};{};{HT-S2011600-7};{300078};{70079};{390}
+convert to purchase order;2022-10-11 13:27:45;{};{};{AM2-540};{300079};{70080};{390}
+release purchase requisition (1);2022-10-11 15:25:56;{};{};{};{300083};{};{}
+release purchase requisition (1);2022-10-12 12:34:00;{};{};{};{300081};{};{}
+release purchase requisition (1);2022-10-12 15:50:57;{};{};{};{300082};{};{}
+release purchase requisition (2);2022-10-12 17:10:20;{};{};{};{300083};{};{}
+release purchase requisition (2);2022-10-12 18:03:21;{};{};{};{300082};{};{}
+convert to purchase order;2022-10-12 19:28:30;{};{};{DPC1015};{300082};{70081};{196}
+convert to purchase order;2022-10-13 16:10:52;{};{};{AZ2-742};{300083};{70082};{103}
+release purchase requisition (2);2022-10-13 18:15:09;{};{};{};{300081};{};{}
+convert to purchase order;2022-10-13 22:14:04;{};{};{HT-MEC9417};{300081};{70083};{390}
+release purchase order;2022-10-17 14:52:37;{};{};{};{};{70079};{}
+goods receipt for purchase order;2022-10-17 18:53:36;{};{};{HT-S2011600-7};{};{70079};{390}
+goods issue for production order;2022-10-17 21:23:51;{990036};{};{HT-S2011600-7};{};{};{390}
+goods issue for production order;2022-10-20 16:45:46;{990022};{};{ACT-BCD};{};{};{71}
+confirm production order;2022-10-20 16:45:46;{990022};{ACT-DCD-11};{};{};{};{71}
+release purchase order;2022-10-26 08:11:29;{};{};{};{};{70077};{}
+release purchase order;2022-10-26 10:19:41;{};{};{};{};{70080};{}
+goods receipt for purchase order;2022-10-27 16:13:53;{};{};{AM2-540};{};{70080};{390}
+reject purchase order;2022-10-27 19:37:57;{};{};{};{};{70078};{}
+goods receipt for purchase order;2022-10-28 09:52:03;{};{};{HT-MEC0717};{};{70077};{206}
+goods issue for production order;2022-10-28 10:37:42;{990036};{};{AM2-540};{};{};{390}
+create purchase requisition;2022-10-28 17:16:02;{};{};{DPC1018};{300084};{};{196}
+release purchase order;2022-10-31 11:48:09;{};{};{};{};{70082};{}
+goods issue for production order;2022-10-31 18:36:21;{990028};{};{HT-MEC0717};{};{};{206}
+release purchase requisition (1);2022-11-01 10:13:17;{};{};{};{300084};{};{}
+goods receipt for purchase order;2022-11-01 17:06:10;{};{};{AZ2-742};{};{70082};{103}
+create production order;2022-11-01 17:21:00;{990010};{ACT-DCD-11};{ACT-BCD};{};{};{109}
+create purchase requisition;2022-11-02 09:09:02;{};{};{ACT-BCD};{300085};{};{109}
+release purchase requisition (1);2022-11-02 09:16:30;{};{};{};{300085};{};{}
+release purchase requisition (2);2022-11-02 13:18:04;{};{};{};{300085};{};{}
+release purchase requisition (2);2022-11-02 14:57:40;{};{};{};{300084};{};{}
+release purchase order;2022-11-02 18:41:31;{};{};{};{};{70081};{}
+convert to purchase order;2022-11-03 10:55:38;{};{};{ACT-BCD};{300085};{70084};{109}
+convert to purchase order;2022-11-03 11:54:55;{};{};{DPC1018};{300084};{70085};{196}
+goods issue for production order;2022-11-04 16:57:17;{990028};{};{AZ2-742};{};{};{103}
+confirm production order;2022-11-04 16:57:17;{990028};{IBP-120};{};{};{};{103}
+release purchase order;2022-11-07 15:00:40;{};{};{};{};{70084};{}
+goods receipt for purchase order;2022-11-08 11:34:22;{};{};{ACT-BCD};{};{70084};{109}
+goods receipt for purchase order;2022-11-08 16:52:28;{};{};{DPC1015};{};{70081};{196}
+reject purchase order;2022-11-09 16:52:05;{};{};{};{};{70083};{}
+create purchase requisition;2022-11-10 11:59:09;{};{};{HT-MEC9417};{300086};{};{390}
+release purchase requisition (1);2022-11-11 16:59:58;{};{};{};{300086};{};{}
+goods issue for production order;2022-11-11 18:35:07;{990010};{};{ACT-BCD};{};{};{109}
+confirm production order;2022-11-11 18:35:07;{990010};{ACT-DCD-11};{};{};{};{109}
+goods issue for production order;2022-11-14 11:36:21;{990047};{};{DPC1015};{};{};{196}
+release purchase requisition (2);2022-11-14 12:33:19;{};{};{};{300086};{};{}
+convert to purchase order;2022-11-14 14:45:15;{};{};{HT-MEC9417};{300086};{70086};{390}
+create production order;2022-11-14 17:10:52;{990015};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{354}
+create purchase requisition;2022-11-15 17:10:22;{};{};{HT-MEC0717};{300087};{};{708}
+release purchase requisition (1);2022-11-16 11:02:41;{};{};{};{300087};{};{}
+create purchase requisition;2022-11-17 10:27:23;{};{};{AZ2-742};{300088};{};{354}
+release purchase requisition (2);2022-11-17 16:18:15;{};{};{};{300087};{};{}
+release purchase requisition (1);2022-11-18 10:22:41;{};{};{};{300088};{};{}
+release purchase order;2022-11-18 12:32:46;{};{};{};{};{70085};{}
+convert to purchase order;2022-11-18 15:40:45;{};{};{HT-MEC0717};{300087};{70087};{708}
+goods receipt for purchase order;2022-11-21 09:01:30;{};{};{DPC1018};{};{70085};{196}
+release purchase requisition (2);2022-11-21 11:28:31;{};{};{};{300088};{};{}
+convert to purchase order;2022-11-21 12:41:59;{};{};{AZ2-742};{300088};{70088};{354}
+create production order;2022-11-23 10:12:06;{990019};{ACT-DCD-11};{ACT-BCD};{};{};{76}
+create purchase requisition;2022-11-23 14:26:39;{};{};{ACT-BCD};{300089};{};{76}
+release purchase order;2022-11-24 11:02:04;{};{};{};{};{70087};{}
+goods receipt for purchase order;2022-11-24 11:18:37;{};{};{HT-MEC0717};{};{70087};{708}
+release purchase requisition (1);2022-11-24 14:03:34;{};{};{};{300089};{};{}
+release purchase requisition (2);2022-11-25 12:51:00;{};{};{};{300089};{};{}
+convert to purchase order;2022-11-25 19:02:44;{};{};{ACT-BCD};{300089};{70089};{76}
+goods issue for production order;2022-11-28 08:35:45;{990015};{};{HT-MEC0717};{};{};{708}
+goods issue for production order;2022-11-28 11:00:38;{990047};{};{DPC1018};{};{};{196}
+confirm production order;2022-11-28 11:00:38;{990047};{000000000050066346};{};{};{};{196}
+release purchase order;2022-12-01 10:55:00;{};{};{};{};{70086};{}
+goods receipt for purchase order;2022-12-02 16:58:22;{};{};{HT-MEC9417};{};{70086};{390}
+create production order;2022-12-05 16:14:21;{990023};{000000000050066346};{DPC1015,DPC1018};{};{};{7}
+create purchase requisition;2022-12-05 18:59:44;{};{};{DPC1015};{300090};{};{7}
+create purchase requisition;2022-12-06 11:52:50;{};{};{DPC1018};{300091};{};{7}
+release purchase requisition (1);2022-12-06 16:15:41;{};{};{};{300090};{};{}
+release purchase requisition (2);2022-12-06 20:35:14;{};{};{};{300090};{};{}
+reject purchase order;2022-12-07 08:44:18;{};{};{};{};{70089};{}
+convert to purchase order;2022-12-07 11:23:00;{};{};{DPC1015};{300090};{70090};{7}
+goods issue for production order;2022-12-07 12:34:19;{990036};{};{HT-MEC9417};{};{};{390}
+confirm production order;2022-12-07 12:34:19;{990036};{CLIP-ON_MIC};{};{};{};{390}
+create purchase requisition;2022-12-07 13:18:34;{};{};{ACT-BCD};{300092};{};{76}
+release purchase requisition (1);2022-12-07 14:32:04;{};{};{};{300092};{};{}
+release purchase requisition (1);2022-12-07 16:17:54;{};{};{};{300091};{};{}
+release purchase requisition (2);2022-12-07 21:59:28;{};{};{};{300092};{};{}
+release purchase requisition (2);2022-12-08 11:46:20;{};{};{};{300091};{};{}
+convert to purchase order;2022-12-08 13:54:39;{};{};{ACT-BCD};{300092};{70091};{76}
+release purchase order;2022-12-08 15:20:23;{};{};{};{};{70088};{}
+convert to purchase order;2022-12-08 17:15:35;{};{};{DPC1018};{300091};{70092};{7}
+goods receipt for purchase order;2022-12-12 12:13:32;{};{};{AZ2-742};{};{70088};{354}
+goods issue for production order;2022-12-13 16:27:20;{990015};{};{AZ2-742};{};{};{354}
+confirm production order;2022-12-13 16:27:20;{990015};{IBP-120};{};{};{};{354}
+create production order;2022-12-14 10:57:55;{990050};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{138}
+create purchase requisition;2022-12-14 14:00:28;{};{};{HT-MEC9417};{300093};{};{138}
+create purchase requisition;2022-12-15 08:49:14;{};{};{AM2-540};{300094};{};{138}
+release purchase requisition (1);2022-12-15 11:25:03;{};{};{};{300093};{};{}
+create purchase requisition;2022-12-15 15:00:18;{};{};{HT-S2011600-7};{300095};{};{138}
+release purchase requisition (1);2022-12-15 15:12:04;{};{};{};{300095};{};{}
+release purchase requisition (2);2022-12-15 17:42:08;{};{};{};{300093};{};{}
+release purchase requisition (2);2022-12-16 10:05:05;{};{};{};{300095};{};{}
+convert to purchase order;2022-12-19 09:37:58;{};{};{HT-MEC9417};{300093};{70093};{138}
+release purchase requisition (1);2022-12-19 16:18:24;{};{};{};{300094};{};{}
+release purchase requisition (2);2022-12-19 19:38:16;{};{};{};{300094};{};{}
+release purchase order;2022-12-19 20:44:06;{};{};{};{};{70092};{}
+convert to purchase order;2022-12-20 09:38:34;{};{};{HT-S2011600-7};{300095};{70094};{138}
+convert to purchase order;2022-12-20 09:59:15;{};{};{AM2-540};{300094};{70095};{138}
+goods receipt for purchase order;2022-12-20 11:26:02;{};{};{DPC1018};{};{70092};{7}
+create production order;2022-12-20 13:19:07;{990037};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{291}
+release purchase order;2022-12-20 20:33:47;{};{};{};{};{70091};{}
+goods issue for production order;2022-12-21 13:32:16;{990023};{};{DPC1018};{};{};{7}
+goods receipt for purchase order;2022-12-21 14:28:26;{};{};{ACT-BCD};{};{70091};{76}
+create purchase requisition;2022-12-21 16:44:33;{};{};{AZ2-742};{300096};{};{291}
+release purchase order;2022-12-21 18:23:32;{};{};{};{};{70095};{}
+create purchase requisition;2022-12-22 10:48:12;{};{};{HT-MEC0717};{300097};{};{582}
+reject purchase order;2022-12-22 11:38:46;{};{};{};{};{70090};{}
+release purchase requisition (1);2022-12-22 13:20:48;{};{};{};{300096};{};{}
+goods receipt for purchase order;2022-12-22 17:26:59;{};{};{AM2-540};{};{70095};{138}
+release purchase order;2022-12-22 21:07:10;{};{};{};{};{70093};{}
+release purchase order;2022-12-23 08:35:18;{};{};{};{};{70094};{}
+release purchase requisition (1);2022-12-23 14:23:40;{};{};{};{300097};{};{}
+goods receipt for purchase order;2022-12-23 16:33:37;{};{};{HT-S2011600-7};{};{70094};{138}
+release purchase requisition (2);2022-12-26 11:14:21;{};{};{};{300097};{};{}
+release purchase requisition (2);2022-12-26 14:38:18;{};{};{};{300096};{};{}
+create purchase requisition;2022-12-26 14:55:38;{};{};{DPC1015};{300098};{};{7}
+release purchase requisition (1);2022-12-26 16:56:39;{};{};{};{300098};{};{}
+convert to purchase order;2022-12-27 10:11:00;{};{};{HT-MEC0717};{300097};{70096};{582}
+goods receipt for purchase order;2022-12-27 14:36:30;{};{};{HT-MEC9417};{};{70093};{138}
+convert to purchase order;2022-12-27 15:11:18;{};{};{AZ2-742};{300096};{70097};{291}
+release purchase requisition (2);2022-12-28 11:48:21;{};{};{};{300098};{};{}
+convert to purchase order;2022-12-28 20:44:59;{};{};{DPC1015};{300098};{70098};{7}
+goods issue for production order;2022-12-29 15:20:28;{990019};{};{ACT-BCD};{};{};{76}
+confirm production order;2022-12-29 15:20:28;{990019};{ACT-DCD-11};{};{};{};{76}
+release purchase order;2023-01-02 17:17:23;{};{};{};{};{70098};{}
+goods receipt for purchase order;2023-01-05 14:20:25;{};{};{DPC1015};{};{70098};{7}
+release purchase order;2023-01-05 17:10:41;{};{};{};{};{70096};{}
+goods issue for production order;2023-01-06 10:48:43;{990023};{};{DPC1015};{};{};{7}
+confirm production order;2023-01-06 10:48:43;{990023};{000000000050066346};{};{};{};{7}
+reject purchase order;2023-01-09 12:22:23;{};{};{};{};{70097};{}
+goods receipt for purchase order;2023-01-09 15:57:45;{};{};{HT-MEC0717};{};{70096};{582}
+goods issue for production order;2023-01-09 19:24:18;{990037};{};{HT-MEC0717};{};{};{582}
+create purchase requisition;2023-01-10 10:15:26;{};{};{AZ2-742};{300099};{};{291}
+release purchase requisition (1);2023-01-10 14:22:17;{};{};{};{300099};{};{}
+release purchase requisition (2);2023-01-10 14:51:59;{};{};{};{300099};{};{}
+convert to purchase order;2023-01-10 17:20:02;{};{};{AZ2-742};{300099};{70099};{291}
+create production order;2023-01-11 11:49:42;{990049};{ACT-DCD-11};{ACT-BCD};{};{};{159}
+create purchase requisition;2023-01-11 16:42:51;{};{};{ACT-BCD};{300100};{};{159}
+release purchase requisition (1);2023-01-11 16:46:03;{};{};{};{300100};{};{}
+release purchase requisition (2);2023-01-12 13:03:30;{};{};{};{300100};{};{}
+convert to purchase order;2023-01-12 17:16:55;{};{};{ACT-BCD};{300100};{70100};{159}
+release purchase order;2023-01-13 14:16:42;{};{};{};{};{70099};{}
+goods receipt for purchase order;2023-01-16 09:19:48;{};{};{AZ2-742};{};{70099};{291}
+goods issue for production order;2023-01-17 11:14:09;{990037};{};{AZ2-742};{};{};{291}
+confirm production order;2023-01-17 11:14:09;{990037};{IBP-120};{};{};{};{291}
+create production order;2023-01-19 10:42:55;{990040};{000000000050066346};{DPC1015,DPC1018};{};{};{198}
+create purchase requisition;2023-01-19 15:57:13;{};{};{DPC1015};{300101};{};{198}
+create purchase requisition;2023-01-19 18:01:15;{};{};{DPC1018};{300102};{};{198}
+release purchase requisition (1);2023-01-20 12:25:47;{};{};{};{300102};{};{}
+goods issue for production order;2023-01-20 12:34:03;{990050};{};{HT-MEC9417};{};{};{138}
+reject purchase order;2023-01-20 15:07:43;{};{};{};{};{70100};{}
+create purchase requisition;2023-01-20 15:12:41;{};{};{ACT-BCD};{300103};{};{159}
+release purchase requisition (2);2023-01-23 09:32:26;{};{};{};{300102};{};{}
+release purchase requisition (1);2023-01-23 11:13:04;{};{};{};{300101};{};{}
+release purchase requisition (2);2023-01-23 11:54:51;{};{};{};{300101};{};{}
+convert to purchase order;2023-01-23 12:23:56;{};{};{DPC1018};{300102};{70101};{198}
+goods issue for production order;2023-01-23 16:16:33;{990050};{};{AM2-540};{};{};{138}
+goods issue for production order;2023-01-24 08:56:13;{990050};{};{HT-S2011600-7};{};{};{138}
+confirm production order;2023-01-24 08:56:13;{990050};{CLIP-ON_MIC};{};{};{};{138}
+release purchase requisition (1);2023-01-24 10:07:13;{};{};{};{300103};{};{}
+release purchase requisition (2);2023-01-25 09:38:29;{};{};{};{300103};{};{}
+release purchase order;2023-01-25 10:26:04;{};{};{};{};{70101};{}
+convert to purchase order;2023-01-25 13:04:41;{};{};{DPC1015};{300101};{70102};{198}
+convert to purchase order;2023-01-26 15:06:34;{};{};{ACT-BCD};{300103};{70103};{159}
+goods receipt for purchase order;2023-01-26 16:11:17;{};{};{DPC1018};{};{70101};{198}
+create production order;2023-01-27 09:43:10;{990024};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{275}
+goods issue for production order;2023-01-27 11:47:24;{990040};{};{DPC1018};{};{};{198}
+create purchase requisition;2023-01-30 11:19:07;{};{};{HT-MEC0717};{300104};{};{550}
+release purchase requisition (1);2023-01-30 11:27:10;{};{};{};{300104};{};{}
+release purchase requisition (2);2023-01-30 16:01:30;{};{};{};{300104};{};{}
+convert to purchase order;2023-01-31 08:53:21;{};{};{HT-MEC0717};{300104};{70104};{550}
+reject purchase order;2023-02-01 14:47:24;{};{};{};{};{70102};{}
+create purchase requisition;2023-02-01 14:49:41;{};{};{AZ2-742};{300105};{};{275}
+create purchase requisition;2023-02-02 12:13:21;{};{};{DPC1015};{300106};{};{198}
+release purchase requisition (1);2023-02-02 15:52:19;{};{};{};{300105};{};{}
+release purchase requisition (2);2023-02-02 19:42:23;{};{};{};{300105};{};{}
+release purchase requisition (1);2023-02-03 09:22:26;{};{};{};{300106};{};{}
+release purchase order;2023-02-03 16:47:56;{};{};{};{};{70103};{}
+create production order;2023-02-03 16:56:24;{990007};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{225}
+release purchase requisition (2);2023-02-06 10:33:35;{};{};{};{300106};{};{}
+convert to purchase order;2023-02-06 10:46:26;{};{};{AZ2-742};{300105};{70105};{275}
+create purchase requisition;2023-02-06 13:30:46;{};{};{AM2-540};{300107};{};{225}
+goods receipt for purchase order;2023-02-06 16:18:15;{};{};{ACT-BCD};{};{70103};{159}
+convert to purchase order;2023-02-06 16:21:37;{};{};{DPC1015};{300106};{70106};{198}
+release purchase requisition (1);2023-02-06 17:11:09;{};{};{};{300107};{};{}
+release purchase order;2023-02-06 17:24:27;{};{};{};{};{70104};{}
+goods receipt for purchase order;2023-02-07 09:16:52;{};{};{HT-MEC0717};{};{70104};{550}
+goods issue for production order;2023-02-07 10:21:30;{990024};{};{HT-MEC0717};{};{};{550}
+release purchase requisition (2);2023-02-07 13:36:16;{};{};{};{300107};{};{}
+convert to purchase order;2023-02-08 10:23:43;{};{};{AM2-540};{300107};{70107};{225}
+reject purchase order;2023-02-08 10:24:44;{};{};{};{};{70106};{}
+create purchase requisition;2023-02-08 10:46:15;{};{};{HT-S2011600-7};{300108};{};{225}
+release purchase requisition (1);2023-02-08 10:51:13;{};{};{};{300108};{};{}
+create purchase requisition;2023-02-08 16:03:25;{};{};{DPC1015};{300109};{};{198}
+release purchase requisition (1);2023-02-09 12:10:43;{};{};{};{300109};{};{}
+create purchase requisition;2023-02-09 12:28:54;{};{};{HT-MEC9417};{300110};{};{225}
+release purchase requisition (2);2023-02-10 10:31:28;{};{};{};{300108};{};{}
+release purchase requisition (2);2023-02-10 14:43:13;{};{};{};{300109};{};{}
+convert to purchase order;2023-02-10 16:48:58;{};{};{DPC1015};{300109};{70108};{198}
+convert to purchase order;2023-02-13 08:48:38;{};{};{HT-S2011600-7};{300108};{70109};{225}
+release purchase requisition (1);2023-02-13 11:38:42;{};{};{};{300110};{};{}
+release purchase requisition (2);2023-02-15 10:34:58;{};{};{};{300110};{};{}
+goods issue for production order;2023-02-15 11:28:44;{990049};{};{ACT-BCD};{};{};{159}
+confirm production order;2023-02-15 11:28:44;{990049};{ACT-DCD-11};{};{};{};{159}
+convert to purchase order;2023-02-15 18:34:29;{};{};{HT-MEC9417};{300110};{70110};{225}
+release purchase order;2023-02-17 10:24:27;{};{};{};{};{70109};{}
+release purchase order;2023-02-20 08:43:50;{};{};{};{};{70105};{}
+goods receipt for purchase order;2023-02-20 10:36:56;{};{};{AZ2-742};{};{70105};{275}
+release purchase order;2023-02-22 15:53:25;{};{};{};{};{70108};{}
+release purchase order;2023-02-23 10:30:25;{};{};{};{};{70110};{}
+goods receipt for purchase order;2023-02-23 12:07:57;{};{};{HT-MEC9417};{};{70110};{225}
+goods issue for production order;2023-02-23 16:16:23;{990024};{};{AZ2-742};{};{};{275}
+confirm production order;2023-02-23 16:16:23;{990024};{IBP-120};{};{};{};{275}
+goods receipt for purchase order;2023-02-24 10:54:00;{};{};{HT-S2011600-7};{};{70109};{225}
+goods receipt for purchase order;2023-02-24 14:29:24;{};{};{DPC1015};{};{70108};{198}
+goods issue for production order;2023-02-24 16:11:57;{990007};{};{HT-S2011600-7};{};{};{225}
+release purchase order;2023-02-24 16:33:40;{};{};{};{};{70107};{}
+goods issue for production order;2023-02-27 08:36:32;{990007};{};{HT-MEC9417};{};{};{225}
+create production order;2023-02-28 09:32:45;{990046};{IBP-120};{AZ2-742,HT-MEC0717};{};{};{401}
+create purchase requisition;2023-02-28 15:56:41;{};{};{AZ2-742};{300111};{};{401}
+goods issue for production order;2023-02-28 17:02:08;{990040};{};{DPC1015};{};{};{198}
+confirm production order;2023-02-28 17:02:08;{990040};{000000000050066346};{};{};{};{198}
+release purchase requisition (1);2023-02-28 18:52:20;{};{};{};{300111};{};{}
+goods receipt for purchase order;2023-03-01 10:47:39;{};{};{AM2-540};{};{70107};{225}
+create purchase requisition;2023-03-01 15:28:07;{};{};{HT-MEC0717};{300112};{};{802}
+release purchase requisition (2);2023-03-02 14:32:44;{};{};{};{300111};{};{}
+release purchase requisition (1);2023-03-02 15:25:11;{};{};{};{300112};{};{}
+convert to purchase order;2023-03-03 09:43:56;{};{};{AZ2-742};{300111};{70111};{401}
+create production order;2023-03-03 11:47:38;{990013};{ACT-DCD-11};{ACT-BCD};{};{};{47}
+create purchase requisition;2023-03-03 15:50:29;{};{};{ACT-BCD};{300113};{};{47}
+release purchase requisition (1);2023-03-03 18:14:32;{};{};{};{300113};{};{}
+release purchase requisition (2);2023-03-03 18:42:20;{};{};{};{300113};{};{}
+convert to purchase order;2023-03-06 09:45:46;{};{};{ACT-BCD};{300113};{70112};{47}
+release purchase requisition (2);2023-03-06 16:17:39;{};{};{};{300112};{};{}
+goods issue for production order;2023-03-06 16:44:09;{990007};{};{AM2-540};{};{};{225}
+confirm production order;2023-03-06 16:44:09;{990007};{CLIP-ON_MIC};{};{};{};{225}
+convert to purchase order;2023-03-06 17:53:34;{};{};{HT-MEC0717};{300112};{70113};{802}
+release purchase order;2023-03-09 08:54:56;{};{};{};{};{70111};{}
+goods receipt for purchase order;2023-03-13 12:00:14;{};{};{AZ2-742};{};{70111};{401}
+release purchase order;2023-03-15 12:59:36;{};{};{};{};{70112};{}
+goods issue for production order;2023-03-16 19:21:28;{990046};{};{AZ2-742};{};{};{401}
+create production order;2023-03-17 15:22:01;{990008};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{78}
+create purchase requisition;2023-03-20 09:36:22;{};{};{AM2-540};{300114};{};{78}
+create purchase requisition;2023-03-20 09:50:43;{};{};{HT-S2011600-7};{300115};{};{78}
+create purchase requisition;2023-03-20 11:50:26;{};{};{HT-MEC9417};{300116};{};{78}
+release purchase requisition (1);2023-03-20 15:31:01;{};{};{};{300116};{};{}
+goods receipt for purchase order;2023-03-20 19:14:47;{};{};{ACT-BCD};{};{70112};{47}
+release purchase requisition (2);2023-03-20 19:19:30;{};{};{};{300116};{};{}
+convert to purchase order;2023-03-21 10:05:00;{};{};{HT-MEC9417};{300116};{70114};{78}
+release purchase requisition (1);2023-03-21 19:02:15;{};{};{};{300114};{};{}
+release purchase requisition (1);2023-03-22 12:00:04;{};{};{};{300115};{};{}
+release purchase requisition (2);2023-03-22 15:04:29;{};{};{};{300115};{};{}
+convert to purchase order;2023-03-22 16:21:18;{};{};{HT-S2011600-7};{300115};{70115};{78}
+release purchase requisition (2);2023-03-22 17:18:09;{};{};{};{300114};{};{}
+convert to purchase order;2023-03-23 09:46:12;{};{};{AM2-540};{300114};{70116};{78}
+release purchase order;2023-03-24 15:49:56;{};{};{};{};{70114};{}
+goods issue for production order;2023-03-27 09:50:52;{990013};{};{ACT-BCD};{};{};{47}
+confirm production order;2023-03-27 09:50:52;{990013};{ACT-DCD-11};{};{};{};{47}
+goods receipt for purchase order;2023-03-27 12:20:01;{};{};{HT-MEC9417};{};{70114};{78}
+create production order;2023-03-28 11:24:57;{990031};{000000000050066346};{DPC1015,DPC1018};{};{};{457}
+reject purchase order;2023-03-28 15:32:01;{};{};{};{};{70116};{}
+create purchase requisition;2023-03-28 16:36:27;{};{};{AM2-540};{300117};{};{78}
+reject purchase order;2023-03-28 18:07:52;{};{};{};{};{70113};{}
+release purchase requisition (1);2023-03-29 11:31:44;{};{};{};{300117};{};{}
+create purchase requisition;2023-03-29 11:32:25;{};{};{DPC1018};{300118};{};{457}
+release purchase requisition (2);2023-03-30 10:04:07;{};{};{};{300117};{};{}
+convert to purchase order;2023-03-30 11:48:44;{};{};{AM2-540};{300117};{70117};{78}
+create purchase requisition;2023-03-30 12:50:48;{};{};{DPC1015};{300119};{};{457}
+release purchase order;2023-03-31 10:17:29;{};{};{};{};{70115};{}
+create purchase requisition;2023-03-31 10:51:40;{};{};{HT-MEC0717};{300120};{};{802}
+goods receipt for purchase order;2023-03-31 12:46:04;{};{};{HT-S2011600-7};{};{70115};{78}
+release purchase requisition (1);2023-03-31 14:56:51;{};{};{};{300118};{};{}
+release purchase requisition (1);2023-03-31 15:16:43;{};{};{};{300119};{};{}
+goods issue for production order;2023-03-31 16:09:47;{990008};{};{HT-MEC9417};{};{};{78}
+release purchase requisition (2);2023-03-31 21:13:27;{};{};{};{300118};{};{}
+release purchase requisition (1);2023-04-03 13:07:20;{};{};{};{300120};{};{}
+convert to purchase order;2023-04-03 16:39:22;{};{};{DPC1018};{300118};{70118};{457}
+release purchase requisition (2);2023-04-04 11:39:20;{};{};{};{300119};{};{}
+release purchase requisition (2);2023-04-04 14:25:43;{};{};{};{300120};{};{}
+goods issue for production order;2023-04-05 11:44:14;{990008};{};{HT-S2011600-7};{};{};{78}
+convert to purchase order;2023-04-06 08:42:43;{};{};{HT-MEC0717};{300120};{70119};{802}
+release purchase order;2023-04-06 09:58:28;{};{};{};{};{70117};{}
+goods receipt for purchase order;2023-04-06 12:38:46;{};{};{AM2-540};{};{70117};{78}
+convert to purchase order;2023-04-06 16:51:24;{};{};{DPC1015};{300119};{70120};{457}
+goods issue for production order;2023-04-07 14:56:53;{990008};{};{AM2-540};{};{};{78}
+confirm production order;2023-04-07 14:56:53;{990008};{CLIP-ON_MIC};{};{};{};{78}
+create production order;2023-04-13 14:35:04;{990018};{CLIP-ON_MIC};{HT-MEC9417,HT-S2011600-7,AM2-540};{};{};{321}
+release purchase order;2023-04-13 16:26:33;{};{};{};{};{70118};{}
+create production order;2023-04-14 17:29:45;{990043};{ACT-DCD-11};{ACT-BCD};{};{};{173}
+release purchase order;2023-04-17 11:41:23;{};{};{};{};{70119};{}
+create purchase requisition;2023-04-17 14:36:54;{};{};{HT-MEC9417};{300121};{};{321}
+release purchase requisition (1);2023-04-17 18:02:21;{};{};{};{300121};{};{}
+goods receipt for purchase order;2023-04-17 19:01:07;{};{};{DPC1018};{};{70118};{457}
+release purchase requisition (2);2023-04-18 09:18:40;{};{};{};{300121};{};{}
+convert to purchase order;2023-04-18 10:41:24;{};{};{HT-MEC9417};{300121};{70121};{321}
+create purchase requisition;2023-04-18 10:55:42;{};{};{HT-S2011600-7};{300122};{};{321}
+release purchase requisition (1);2023-04-19 10:08:21;{};{};{};{300122};{};{}
+release purchase requisition (2);2023-04-19 10:26:00;{};{};{};{300122};{};{}
+convert to purchase order;2023-04-19 12:15:46;{};{};{HT-S2011600-7};{300122};{70122};{321}
+goods receipt for purchase order;2023-04-20 12:14:11;{};{};{HT-MEC0717};{};{70119};{802}
+create purchase requisition;2023-04-21 12:32:21;{};{};{AM2-540};{300123};{};{321}
+release purchase requisition (1);2023-04-21 15:55:12;{};{};{};{300123};{};{}
+create purchase requisition;2023-04-21 17:24:37;{};{};{ACT-BCD};{300124};{};{173}
+goods issue for production order;2023-04-24 10:08:56;{990046};{};{HT-MEC0717};{};{};{802}
+confirm production order;2023-04-24 10:08:56;{990046};{IBP-120};{};{};{};{401}
+release purchase requisition (1);2023-04-24 13:10:31;{};{};{};{300124};{};{}
+release purchase requisition (2);2023-04-24 15:03:15;{};{};{};{300123};{};{}
+release purchase requisition (2);2023-04-24 16:09:45;{};{};{};{300124};{};{}
+convert to purchase order;2023-04-24 16:10:16;{};{};{AM2-540};{300123};{70123};{321}
+convert to purchase order;2023-04-25 15:05:58;{};{};{ACT-BCD};{300124};{70124};{173}
+goods issue for production order;2023-04-25 16:39:14;{990031};{};{DPC1018};{};{};{457}
+release purchase order;2023-04-27 10:42:22;{};{};{};{};{70123};{}
+release purchase order;2023-04-27 13:32:02;{};{};{};{};{70124};{}
+release purchase order;2023-04-28 15:01:05;{};{};{};{};{70120};{}
+goods receipt for purchase order;2023-05-01 08:49:23;{};{};{DPC1015};{};{70120};{457}
+goods receipt for purchase order;2023-05-01 22:11:02;{};{};{ACT-BCD};{};{70124};{173}
+release purchase order;2023-05-02 11:16:57;{};{};{};{};{70121};{}
+goods issue for production order;2023-05-02 11:22:01;{990031};{};{DPC1015};{};{};{457}
+confirm production order;2023-05-02 11:22:01;{990031};{000000000050066346};{};{};{};{457}
+goods receipt for purchase order;2023-05-02 13:55:02;{};{};{HT-MEC9417};{};{70121};{321}
+goods receipt for purchase order;2023-05-03 10:04:23;{};{};{AM2-540};{};{70123};{321}
+release purchase order;2023-05-03 14:56:28;{};{};{};{};{70122};{}
+goods issue for production order;2023-05-03 16:23:55;{990018};{};{AM2-540};{};{};{321}
+goods issue for production order;2023-05-05 18:23:13;{990018};{};{HT-MEC9417};{};{};{321}
+goods issue for production order;2023-05-08 09:22:18;{990043};{};{ACT-BCD};{};{};{173}
+confirm production order;2023-05-08 09:22:18;{990043};{ACT-DCD-11};{};{};{};{173}
+goods receipt for purchase order;2023-05-10 14:02:26;{};{};{HT-S2011600-7};{};{70122};{321}
+goods issue for production order;2023-05-11 13:24:33;{990018};{};{HT-S2011600-7};{};{};{321}
+confirm production order;2023-05-11 13:24:33;{990018};{CLIP-ON_MIC};{};{};{};{321}

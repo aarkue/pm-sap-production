@@ -1,0 +1,3079 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="['PR0010046161']" />
+		<event>
+			<string key="event_id" value="2" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-01-27T02:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046161" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="2" />
+		</event>
+		<event>
+			<string key="event_id" value="8" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-05T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046161" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="8" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046162']" />
+		<event>
+			<string key="event_id" value="9" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-06T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046162" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="9" />
+		</event>
+		<event>
+			<string key="event_id" value="13" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-08T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046162" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="13" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046163']" />
+		<event>
+			<string key="event_id" value="3" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-01-28T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046163" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="3" />
+		</event>
+		<event>
+			<string key="event_id" value="4" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-01-29T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046163" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="4" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046164']" />
+		<event>
+			<string key="event_id" value="7" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-04T20:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046164" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="7" />
+		</event>
+		<event>
+			<string key="event_id" value="12" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-07T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046164" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="12" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046165']" />
+		<event>
+			<string key="event_id" value="15" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-10T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046165" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="15" />
+		</event>
+		<event>
+			<string key="event_id" value="23" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-13T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046165" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="23" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046166']" />
+		<event>
+			<string key="event_id" value="27" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-15T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046166" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="27" />
+		</event>
+		<event>
+			<string key="event_id" value="30" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-17T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046166" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="30" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046167']" />
+		<event>
+			<string key="event_id" value="17" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-10T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046167" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="17" />
+		</event>
+		<event>
+			<string key="event_id" value="19" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-11T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046167" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="19" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046168']" />
+		<event>
+			<string key="event_id" value="39" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-25T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046168" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="39" />
+		</event>
+		<event>
+			<string key="event_id" value="42" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-27T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046168" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="42" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046169']" />
+		<event>
+			<string key="event_id" value="36" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-21T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046169" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="36" />
+		</event>
+		<event>
+			<string key="event_id" value="37" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-02-21T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046169" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="37" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046170']" />
+		<event>
+			<string key="event_id" value="35" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-02-21T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046170" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="35" />
+		</event>
+		<event>
+			<string key="event_id" value="44" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-03-01T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046170" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="44" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046171']" />
+		<event>
+			<string key="event_id" value="43" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-03-01T05:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046171" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="43" />
+		</event>
+		<event>
+			<string key="event_id" value="50" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-03-04T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046171" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="50" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046172']" />
+		<event>
+			<string key="event_id" value="61" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-03-15T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046172" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="61" />
+		</event>
+		<event>
+			<string key="event_id" value="62" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-03-15T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046172" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="62" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046173']" />
+		<event>
+			<string key="event_id" value="74" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-03-28T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046173" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="74" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046174']" />
+		<event>
+			<string key="event_id" value="76" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-02T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046174" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="76" />
+		</event>
+		<event>
+			<string key="event_id" value="77" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-04-03T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046174" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="77" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046175']" />
+		<event>
+			<string key="event_id" value="78" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-04T19:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046175" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="78" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046176']" />
+		<event>
+			<string key="event_id" value="81" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-06T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046176" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="81" />
+		</event>
+		<event>
+			<string key="event_id" value="82" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-04-06T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046176" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="82" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046177']" />
+		<event>
+			<string key="event_id" value="87" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-09T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046177" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="87" />
+		</event>
+		<event>
+			<string key="event_id" value="89" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-04-10T05:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046177" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="89" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046178']" />
+		<event>
+			<string key="event_id" value="91" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-11T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046178" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="91" />
+		</event>
+		<event>
+			<string key="event_id" value="92" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-04-12T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046178" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="92" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046179']" />
+		<event>
+			<string key="event_id" value="103" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-25T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046179" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="103" />
+		</event>
+		<event>
+			<string key="event_id" value="107" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-04-30T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046179" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="107" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046180']" />
+		<event>
+			<string key="event_id" value="104" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-04-28T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046180" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="104" />
+		</event>
+		<event>
+			<string key="event_id" value="106" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-04-28T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046180" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="106" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046181']" />
+		<event>
+			<string key="event_id" value="127" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-05-16T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046181" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="127" />
+		</event>
+		<event>
+			<string key="event_id" value="129" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-05-22T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046181" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="129" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046182']" />
+		<event>
+			<string key="event_id" value="131" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-05-23T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046182" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="131" />
+		</event>
+		<event>
+			<string key="event_id" value="135" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-05-27T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046182" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="135" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046183']" />
+		<event>
+			<string key="event_id" value="133" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-05-25T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046183" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="133" />
+		</event>
+		<event>
+			<string key="event_id" value="136" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-05-27T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046183" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="136" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046184']" />
+		<event>
+			<string key="event_id" value="138" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-05-28T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046184" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="138" />
+		</event>
+		<event>
+			<string key="event_id" value="145" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-06-03T19:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046184" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="145" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046185']" />
+		<event>
+			<string key="event_id" value="140" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-05-30T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046185" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="140" />
+		</event>
+		<event>
+			<string key="event_id" value="141" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-05-30T20:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046185" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="141" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046186']" />
+		<event>
+			<string key="event_id" value="165" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-06-20T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046186" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="165" />
+		</event>
+		<event>
+			<string key="event_id" value="166" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-06-20T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046186" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="166" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046187']" />
+		<event>
+			<string key="event_id" value="168" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-06-23T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046187" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="168" />
+		</event>
+		<event>
+			<string key="event_id" value="170" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-06-26T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046187" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="170" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046188']" />
+		<event>
+			<string key="event_id" value="175" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-07-02T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046188" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="175" />
+		</event>
+		<event>
+			<string key="event_id" value="177" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-07-02T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046188" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="177" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046189']" />
+		<event>
+			<string key="event_id" value="178" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-07-03T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046189" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="178" />
+		</event>
+		<event>
+			<string key="event_id" value="179" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-07-03T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046189" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="179" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046190']" />
+		<event>
+			<string key="event_id" value="174" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-07-02T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046190" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="174" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046191']" />
+		<event>
+			<string key="event_id" value="176" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-07-02T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046191" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="176" />
+		</event>
+		<event>
+			<string key="event_id" value="182" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-07-04T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046191" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="182" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046192']" />
+		<event>
+			<string key="event_id" value="197" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-07-18T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046192" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="197" />
+		</event>
+		<event>
+			<string key="event_id" value="198" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-07-21T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046192" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="198" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046193']" />
+		<event>
+			<string key="event_id" value="208" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-08-03T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046193" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="208" />
+		</event>
+		<event>
+			<string key="event_id" value="210" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-08-04T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046193" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="210" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046194']" />
+		<event>
+			<string key="event_id" value="209" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-08-03T20:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046194" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="209" />
+		</event>
+		<event>
+			<string key="event_id" value="212" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-08-05T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046194" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="212" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046195']" />
+		<event>
+			<string key="event_id" value="219" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-08-16T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046195" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="219" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046196']" />
+		<event>
+			<string key="event_id" value="221" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-08-17T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046196" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="221" />
+		</event>
+		<event>
+			<string key="event_id" value="222" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-08-17T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046196" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="222" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046197']" />
+		<event>
+			<string key="event_id" value="229" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-08-25T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046197" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="229" />
+		</event>
+		<event>
+			<string key="event_id" value="232" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-08-29T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046197" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="232" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046198']" />
+		<event>
+			<string key="event_id" value="240" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-09-03T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046198" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="240" />
+		</event>
+		<event>
+			<string key="event_id" value="248" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-09-11T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046198" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="248" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046199']" />
+		<event>
+			<string key="event_id" value="245" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-09-10T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046199" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="245" />
+		</event>
+		<event>
+			<string key="event_id" value="246" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-09-10T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046199" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="246" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046200']" />
+		<event>
+			<string key="event_id" value="247" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-09-11T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046200" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="247" />
+		</event>
+		<event>
+			<string key="event_id" value="250" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-09-12T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046200" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="250" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046201']" />
+		<event>
+			<string key="event_id" value="257" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-09-18T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046201" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="257" />
+		</event>
+		<event>
+			<string key="event_id" value="258" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-09-21T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046201" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="258" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046202']" />
+		<event>
+			<string key="event_id" value="262" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-09-24T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046202" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="262" />
+		</event>
+		<event>
+			<string key="event_id" value="263" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-09-24T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046202" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="263" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046203']" />
+		<event>
+			<string key="event_id" value="268" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-09-28T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046203" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="268" />
+		</event>
+		<event>
+			<string key="event_id" value="272" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-09-29T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046203" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="272" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046204']" />
+		<event>
+			<string key="event_id" value="275" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-10-02T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046204" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="275" />
+		</event>
+		<event>
+			<string key="event_id" value="284" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-10-10T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046204" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="284" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046205']" />
+		<event>
+			<string key="event_id" value="277" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-10-03T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046205" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="277" />
+		</event>
+		<event>
+			<string key="event_id" value="279" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-10-05T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046205" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="279" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046206']" />
+		<event>
+			<string key="event_id" value="278" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-10-04T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046206" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="278" />
+		</event>
+		<event>
+			<string key="event_id" value="280" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-10-08T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046206" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="280" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046207']" />
+		<event>
+			<string key="event_id" value="286" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-10-11T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046207" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="286" />
+		</event>
+		<event>
+			<string key="event_id" value="289" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-10-13T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046207" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="289" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046208']" />
+		<event>
+			<string key="event_id" value="297" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-10-18T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046208" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="297" />
+		</event>
+		<event>
+			<string key="event_id" value="298" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-10-23T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046208" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="298" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046209']" />
+		<event>
+			<string key="event_id" value="307" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-10-29T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046209" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="307" />
+		</event>
+		<event>
+			<string key="event_id" value="310" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-10-31T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046209" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="310" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046210']" />
+		<event>
+			<string key="event_id" value="312" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-11-05T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046210" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="312" />
+		</event>
+		<event>
+			<string key="event_id" value="317" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-11-06T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046210" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="317" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046211']" />
+		<event>
+			<string key="event_id" value="320" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-11-09T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046211" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="320" />
+		</event>
+		<event>
+			<string key="event_id" value="322" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-11-09T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046211" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="322" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046212']" />
+		<event>
+			<string key="event_id" value="327" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-11-13T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046212" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="327" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046213']" />
+		<event>
+			<string key="event_id" value="334" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-11-21T05:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046213" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="334" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046214']" />
+		<event>
+			<string key="event_id" value="338" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-11-25T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046214" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="338" />
+		</event>
+		<event>
+			<string key="event_id" value="339" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-11-26T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046214" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="339" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046215']" />
+		<event>
+			<string key="event_id" value="350" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-12-01T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046215" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="350" />
+		</event>
+		<event>
+			<string key="event_id" value="354" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-12-06T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046215" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="354" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046216']" />
+		<event>
+			<string key="event_id" value="357" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-12-08T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046216" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="357" />
+		</event>
+		<event>
+			<string key="event_id" value="358" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-12-10T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046216" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="358" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046217']" />
+		<event>
+			<string key="event_id" value="359" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-12-11T20:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046217" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="359" />
+		</event>
+		<event>
+			<string key="event_id" value="365" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-12-15T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046217" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="365" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046218']" />
+		<event>
+			<string key="event_id" value="360" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-12-12T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046218" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="360" />
+		</event>
+		<event>
+			<string key="event_id" value="362" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-12-14T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046218" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="362" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046219']" />
+		<event>
+			<string key="event_id" value="364" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-12-14T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046219" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="364" />
+		</event>
+		<event>
+			<string key="event_id" value="367" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-12-16T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046219" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="367" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046220']" />
+		<event>
+			<string key="event_id" value="372" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2022-12-21T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046220" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="372" />
+		</event>
+		<event>
+			<string key="event_id" value="377" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2022-12-23T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046220" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="377" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046221']" />
+		<event>
+			<string key="event_id" value="387" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-01-04T19:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046221" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="387" />
+		</event>
+		<event>
+			<string key="event_id" value="388" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-01-05T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046221" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="388" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046222']" />
+		<event>
+			<string key="event_id" value="402" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-01-25T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046222" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="402" />
+		</event>
+		<event>
+			<string key="event_id" value="407" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-01-28T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046222" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="407" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046223']" />
+		<event>
+			<string key="event_id" value="403" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-01-27T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046223" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="403" />
+		</event>
+		<event>
+			<string key="event_id" value="410" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-01-30T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046223" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="410" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046224']" />
+		<event>
+			<string key="event_id" value="417" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-02-10T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046224" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="417" />
+		</event>
+		<event>
+			<string key="event_id" value="422" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-02-12T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046224" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="422" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046225']" />
+		<event>
+			<string key="event_id" value="415" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-02-08T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046225" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="415" />
+		</event>
+		<event>
+			<string key="event_id" value="418" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-02-10T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046225" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="418" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046226']" />
+		<event>
+			<string key="event_id" value="419" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-02-11T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046226" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="419" />
+		</event>
+		<event>
+			<string key="event_id" value="425" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-02-16T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046226" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="425" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046227']" />
+		<event>
+			<string key="event_id" value="420" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-02-11T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046227" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="420" />
+		</event>
+		<event>
+			<string key="event_id" value="426" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-02-16T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046227" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="426" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046228']" />
+		<event>
+			<string key="event_id" value="440" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-02-26T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046228" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="440" />
+		</event>
+		<event>
+			<string key="event_id" value="445" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-02-28T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046228" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="445" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046229']" />
+		<event>
+			<string key="event_id" value="441" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-02-27T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046229" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="441" />
+		</event>
+		<event>
+			<string key="event_id" value="450" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-03-04T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046229" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="450" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046230']" />
+		<event>
+			<string key="event_id" value="458" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-03-17T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046230" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="458" />
+		</event>
+		<event>
+			<string key="event_id" value="460" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-03-19T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046230" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="460" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046231']" />
+		<event>
+			<string key="event_id" value="466" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-03-26T05:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046231" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="466" />
+		</event>
+		<event>
+			<string key="event_id" value="467" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-03-27T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046231" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="467" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046232']" />
+		<event>
+			<string key="event_id" value="472" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-03-31T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046232" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="472" />
+		</event>
+		<event>
+			<string key="event_id" value="478" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-04-05T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046232" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="478" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046233']" />
+		<event>
+			<string key="event_id" value="471" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-03-31T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046233" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="471" />
+		</event>
+		<event>
+			<string key="event_id" value="475" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-04-01T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046233" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="475" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046234']" />
+		<event>
+			<string key="event_id" value="474" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-04-01T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046234" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="474" />
+		</event>
+		<event>
+			<string key="event_id" value="476" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-04-04T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046234" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="476" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046235']" />
+		<event>
+			<string key="event_id" value="486" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-04-11T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046235" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="486" />
+		</event>
+		<event>
+			<string key="event_id" value="489" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-04-13T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046235" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="489" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046236']" />
+		<event>
+			<string key="event_id" value="481" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-04-09T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046236" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="481" />
+		</event>
+		<event>
+			<string key="event_id" value="485" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-04-11T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046236" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="485" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046237']" />
+		<event>
+			<string key="event_id" value="488" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-04-12T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046237" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="488" />
+		</event>
+		<event>
+			<string key="event_id" value="490" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-04-13T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046237" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="490" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046238']" />
+		<event>
+			<string key="event_id" value="517" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-05-09T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046238" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="517" />
+		</event>
+		<event>
+			<string key="event_id" value="520" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-05-13T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046238" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="520" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046239']" />
+		<event>
+			<string key="event_id" value="522" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-05-14T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046239" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="522" />
+		</event>
+		<event>
+			<string key="event_id" value="524" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-05-15T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046239" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="524" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046240']" />
+		<event>
+			<string key="event_id" value="519" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-05-13T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046240" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="519" />
+		</event>
+		<event>
+			<string key="event_id" value="521" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-05-14T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046240" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="521" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046241']" />
+		<event>
+			<string key="event_id" value="526" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-05-17T02:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046241" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="526" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046242']" />
+		<event>
+			<string key="event_id" value="532" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-05-25T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046242" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="532" />
+		</event>
+		<event>
+			<string key="event_id" value="534" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-05-27T12:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046242" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="534" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046243']" />
+		<event>
+			<string key="event_id" value="540" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-06-02T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046243" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="540" />
+		</event>
+		<event>
+			<string key="event_id" value="549" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-06-09T05:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046243" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="549" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046244']" />
+		<event>
+			<string key="event_id" value="541" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-06-05T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046244" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="541" />
+		</event>
+		<event>
+			<string key="event_id" value="550" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-06-09T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046244" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="550" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046245']" />
+		<event>
+			<string key="event_id" value="553" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-06-12T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046245" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="553" />
+		</event>
+		<event>
+			<string key="event_id" value="555" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-06-13T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046245" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="555" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046246']" />
+		<event>
+			<string key="event_id" value="562" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-06-30T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046246" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="562" />
+		</event>
+		<event>
+			<string key="event_id" value="568" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-07-07T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046246" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="568" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046247']" />
+		<event>
+			<string key="event_id" value="563" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-07-01T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046247" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="563" />
+		</event>
+		<event>
+			<string key="event_id" value="570" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-07-08T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046247" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="570" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046248']" />
+		<event>
+			<string key="event_id" value="575" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-07-12T23:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046248" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="575" />
+		</event>
+		<event>
+			<string key="event_id" value="579" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-07-17T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046248" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="579" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046249']" />
+		<event>
+			<string key="event_id" value="573" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-07-12T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046249" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="573" />
+		</event>
+		<event>
+			<string key="event_id" value="574" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-07-12T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046249" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="574" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046250']" />
+		<event>
+			<string key="event_id" value="587" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-07-28T19:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046250" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="587" />
+		</event>
+		<event>
+			<string key="event_id" value="588" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-07-29T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046250" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="588" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046251']" />
+		<event>
+			<string key="event_id" value="600" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-12T04:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046251" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="600" />
+		</event>
+		<event>
+			<string key="event_id" value="606" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-08-18T00:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046251" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="606" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046252']" />
+		<event>
+			<string key="event_id" value="602" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-12T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046252" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="602" />
+		</event>
+		<event>
+			<string key="event_id" value="609" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-08-19T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046252" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="609" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046253']" />
+		<event>
+			<string key="event_id" value="601" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-12T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046253" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="601" />
+		</event>
+		<event>
+			<string key="event_id" value="604" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-08-13T10:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046253" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="604" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046254']" />
+		<event>
+			<string key="event_id" value="605" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-15T02:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046254" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="605" />
+		</event>
+		<event>
+			<string key="event_id" value="607" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-08-18T05:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046254" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="607" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046255']" />
+		<event>
+			<string key="event_id" value="619" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-26T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046255" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="619" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046256']" />
+		<event>
+			<string key="event_id" value="622" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-29T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046256" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="622" />
+		</event>
+		<event>
+			<string key="event_id" value="627" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-09-04T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046256" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="627" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046257']" />
+		<event>
+			<string key="event_id" value="623" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-08-31T18:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046257" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="623" />
+		</event>
+		<event>
+			<string key="event_id" value="625" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-09-01T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046257" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="625" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046258']" />
+		<event>
+			<string key="event_id" value="628" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-09-05T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046258" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="628" />
+		</event>
+		<event>
+			<string key="event_id" value="632" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-09-07T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046258" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="632" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046259']" />
+		<event>
+			<string key="event_id" value="639" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-09-12T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046259" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="639" />
+		</event>
+		<event>
+			<string key="event_id" value="641" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-09-14T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046259" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="641" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046260']" />
+		<event>
+			<string key="event_id" value="640" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-09-13T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046260" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="640" />
+		</event>
+		<event>
+			<string key="event_id" value="642" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-09-15T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046260" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="642" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046261']" />
+		<event>
+			<string key="event_id" value="654" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-09-24T02:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046261" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="654" />
+		</event>
+		<event>
+			<string key="event_id" value="659" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-09-26T14:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046261" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="659" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046262']" />
+		<event>
+			<string key="event_id" value="669" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-10-12T15:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046262" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="669" />
+		</event>
+		<event>
+			<string key="event_id" value="670" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-10-12T20:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046262" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="670" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046263']" />
+		<event>
+			<string key="event_id" value="671" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-10-14T22:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046263" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="671" />
+		</event>
+		<event>
+			<string key="event_id" value="672" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-10-15T08:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046263" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="672" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046264']" />
+		<event>
+			<string key="event_id" value="673" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-10-15T13:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046264" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="673" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046265']" />
+		<event>
+			<string key="event_id" value="680" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-10-24T02:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046265" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="680" />
+		</event>
+		<event>
+			<string key="event_id" value="685" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-10-26T09:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046265" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="685" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046266']" />
+		<event>
+			<string key="event_id" value="689" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-11-03T17:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046266" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="689" />
+		</event>
+		<event>
+			<string key="event_id" value="695" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-11-07T16:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046266" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="695" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046267']" />
+		<event>
+			<string key="event_id" value="688" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-11-03T07:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046267" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="688" />
+		</event>
+		<event>
+			<string key="event_id" value="690" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-11-04T03:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046267" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="690" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046268']" />
+		<event>
+			<string key="event_id" value="694" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-11-07T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046268" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="694" />
+		</event>
+		<event>
+			<string key="event_id" value="696" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-11-07T21:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046268" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="696" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046269']" />
+		<event>
+			<string key="event_id" value="710" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-11-22T06:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046269" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="710" />
+		</event>
+		<event>
+			<string key="event_id" value="711" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-11-23T02:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046269" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="711" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="['PR0010046270']" />
+		<event>
+			<string key="event_id" value="714" />
+			<string key="concept:name" value="Released Purchase Requisition (1)" />
+			<date key="time:timestamp" value="2023-12-02T01:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046270" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="714" />
+		</event>
+		<event>
+			<string key="event_id" value="715" />
+			<string key="concept:name" value="Released Purchase Requisition (2)" />
+			<date key="time:timestamp" value="2023-12-02T11:20:05" />
+			<string key="event_PRODORD" value="NaT" />
+			<string key="DOCTYPE_PRODORD" value="NaT" />
+			<string key="event_PURCHREQ" value="PR0010046270" />
+			<string key="event_PURCHORD" value="NaT" />
+			<string key="DOCTYPE_PURCHORD" value="NaT" />
+			<string key="event_RESERVATION" value="NaT" />
+			<string key="DOCTYPE_RESERVATION" value="NaT" />
+			<int key="@@index" value="715" />
+		</event>
+	</trace>
+</log>
